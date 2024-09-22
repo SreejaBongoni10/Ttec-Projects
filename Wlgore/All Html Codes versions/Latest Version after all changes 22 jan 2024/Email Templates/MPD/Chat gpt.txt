@@ -1,0 +1,60 @@
+<div data-section="true" class="emptyContainer columns-equal-class no-wrap-section" style="margin-bottom: 30px;">
+    <table class="outer" align="center" style="width: 600px; display: block; border-collapse: collapse;">
+        <tbody>
+            <tr>
+                <th>
+                    <table style="width: 100%; border-collapse: collapse;">
+                        <tbody>
+                            <tr>
+                                <th data-container="true" data-container-width="16.00" style="vertical-align: top; min-width: 5px; width: 96px; max-width: 16.00%; height: 0px;" id="container19e826fca4fd61707103789654" class="columnContainer setImageSectionWidth">
+                                    <table width="100%" style="height: 100%; border-collapse: collapse;">
+                                        <tbody>
+                                            <tr>
+                                                <th class="columnContainer inner setImageSectionWidth" style="min-width: 5px; vertical-align: middle; word-wrap: break-word; word-break: break-word; padding-top: 10px; padding-left: 50px; font-weight: normal;">
+                                                    <div data-editorblocktype="Image">
+                                                        <div align="left" data-image-file-id="b84d9474-a47f-ee11-8179-0022480818df" width="100%" style="width: 100%;" class="imageWrapper setImageSectionWidth">
+                                                            <img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/b84d9474-a47f-ee11-8179-0022480818df?ts=638352022832618011" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; margin-left: 0px; margin-right: auto;" class="LeftAlignImage setImageSectionWidth">
+                                                            <div class="clear" style="clear: both; height: 0px; width: 0px;"></div>
+                                                        </div>
+                                                    </div>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                                <th data-container="true" class="columnContainer addWidthOnMobile" data-container-width="47.00" style="vertical-align: top; min-width: 5px; width: 282px; max-width: 47.00%; height: 0px;" id="container3dfba4b3d14591707103789654">
+                                    <table width="100%" style="height: 100%; border-collapse: collapse;">
+                                        <tbody>
+                                            <tr>
+                                                <th class="columnContainer inner addWidthOnMobile" style="min-width: 0px; vertical-align: middle; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                    <div data-editorblocktype="Text" style="margin: 10px 0px;" class="addWidthOnMobile">
+                                                        <h2 class="addWidthOnMobile" style="margin: 0px 0px 0px 0px; padding: 7px 0px 0px; font-family: verdana, arial, sans-serif; font-size: 20px; line-height: 1; color: rgb(218, 41, 28);">
+                                                            LOREM IPSUM (Speakers3)
+                                                        </h2>
+                                                    </div>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                                <th data-container="true" class="columnContainer" data-container-width="37.00" style="vertical-align: top; min-width: 5px; width: 222px; max-width: 37.00%; height: 0px;" id="container4d856ad32df531707103789654">
+                                    <table width="100%" style="height: 100%; border-collapse: collapse;">
+                                        <tbody>
+                                            <tr>
+                                                <th class="columnContainer inner" style="min-width: 5px; vertical-align: middle; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                    <div data-editorblocktype="Text" data-placeholder="Enter your text here" style="margin: 10px;">
+                                                        <p style="margin: 0;"></p>
+                                                    </div>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </th>
+            </tr>
+        </tbody>
+    </table>
+</div>

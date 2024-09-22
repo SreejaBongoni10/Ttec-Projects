@@ -1,0 +1,1083 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Email Subject</title>
+    <meta name="referrer" content="never">
+    <meta name="format-detection" content="telephone=no,date=no,address=no,email=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta type="xrm/designer/setting" name="type" value="marketing-designer-content-editor-document">
+    <meta type="xrm/designer/setting" name="layout-editable" value="marketing-designer-layout-editable">
+    <meta type="xrm/designer/setting" name="layout-max-width" value="600px" datatype="text" label="Layout max width">
+    <meta type="xrm/designer/setting" name="font-family" value="Arial, Verdana, sans-serif" datatype="font"
+        label="Font Family">
+    <meta type="xrm/designer/setting" name="body-text-size" value="14px" datatype="text" label="Body Font Size">
+    <meta type="xrm/designer/setting" name="body-text-color" value="#000" datatype="color" label="Body Text Color">
+    <meta type="xrm/designer/setting" name="outer-background" value="#FFFFF" datatype="color" label="Email Background">
+    <style>
+        @font-face {
+            font-family: BoxedRegularBold;
+            font-display: swap;
+            src: url(https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/fonts/19974fb2-d0e1-ee11-904d-000d3a5784a8?ts=638503222050000000 );
+        }
+
+        @font-face {
+            font-family: BoxedRegular;
+            font-display: swap;
+            src: url(https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/fonts/b1874f8f-d0e1-ee11-904d-000d3a5784a8?ts=638459964430000000 );
+        }
+
+        @font-face {
+            font-family: BoxedLight;
+            font-display: swap;
+            src: url(https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/fonts/25fb446d-d0e1-ee11-904d-000d3a5784a8?ts=638459963810000000 );
+        }
+
+        @font-face {
+            font-family: BoxedHeavy;
+            font-display: swap;
+            src: url(https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/fonts/6cbc1864-c7e1-ee11-904d-000d3a5784a8?ts=638459959930000000 );
+        }
+
+        @media only screen and (max-width: 440px) {
+            p {
+                font-size: 9px !important;
+                line-height: 10pt !important;
+            }
+
+            a {
+                font-size: 9px !important;
+                line-height: 10pt !important;
+            }
+
+            .mobileFont {
+                font-size: 20px !important;
+                line-height: 10pt !important;
+            }
+
+            .mobilePointsFont {
+                font-size: 20px !important;
+                line-height: 10pt !important;
+            }
+
+
+
+            .columnContainer,
+            .emptyContainer {
+                padding-left: 0px !important;
+                padding-right: 0px !important;
+                margin-left: 0px !important;
+                margin-right: 0px !important;
+            }
+        }
+
+        @media only screen and (min-width: 441px) and (max-width: 680px) {
+            p {
+                font-size: 12px !important;
+            }
+
+            a {
+                font-size: 12px !important;
+            }
+
+            .columnContainer,
+            .emptyContainer {
+                padding-left: 0px !important;
+                padding-right: 0px !important;
+                margin-left: 0px !important;
+                margin-right: 0px !important;
+            }
+        }
+
+
+        body {
+            font-family: Arial;
+            font-size: 14px;
+            color: rgb(0, 0, 0);
+            background-color: rgb(255, 255, 255);
+        }
+
+        h1 {
+            color: rgb(0, 0, 0);
+            font-size: 34px;
+            font-weight: normal;
+            font-family: Arial;
+            line-height: inherit;
+            text-align: left;
+            margin: 0px;
+        }
+
+        h2 {
+            color: rgb(51, 51, 51);
+            font-size: 24px;
+            font-weight: normal;
+            font-family: Arial;
+            line-height: inherit;
+            text-align: left;
+            margin: 0px;
+        }
+
+        h3 {
+            color: rgb(0, 0, 0);
+            font-size: 16px;
+            font-weight: normal;
+            font-family: Arial;
+            line-height: inherit;
+            text-align: left;
+            margin: 0px;
+        }
+
+        p {
+            font-family: Arial;
+            font-size: 14px;
+            color: rgb(0, 0, 0);
+            line-height: inherit;
+            font-weight: normal;
+            text-align: left;
+        }
+
+        a {
+            font-family: Arial;
+            font-size: inherit;
+            font-weight: normal;
+            color: rgb(0, 130, 221);
+            text-decoration: none;
+        }
+
+        .buttonWrapper {
+            margin: 10px 0px;
+        }
+
+        .buttonClass {
+            font-family: Arial;
+            font-size: 16px;
+            font-weight: normal;
+            border-radius: 4px;
+            color: white;
+            border: none;
+            background-color: rgb(7, 66, 171);
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+
+        .buttonClass span {
+            font-family: inherit;
+            text-decoration: inherit;
+        }
+
+        .divider {
+            border-top: 2px solid silver;
+            margin: 10px 0px;
+            width: 100%;
+        }
+
+        div div {
+            background-color: transparent;
+        }
+
+        [data-layout="true"] {
+            border: none;
+            margin: 0px auto;
+            background-color: rgb(255, 255, 255);
+            max-width:
+                /* @layout-max-width */
+                600px
+                /* @layout-max-width */
+            ;
+        }
+
+        :root {
+            --brand-color4: #0742ab;
+        }
+    </style>
+</head>
+
+<body dir="ltr">
+    <div data-layout="true" data-layout-version="v2" style="max-width: 600px; margin: auto;">
+
+
+        <div data-conditional-content-id="99547fde-5af3-4abe-9420-280692bdda2d">
+            <!--{{#if conditionalRule_1}}-->
+            <div data-conditional-content-rule-id="1">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding: 0px;"
+                                                    id="container3b5f4ee9db9a71715666720708" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Image"
+                                                                        style="margin: 0px; padding: 0px;">
+                                                                        <div align="Center" class="imageWrapper"
+                                                                            data-image-file-id="bb7b51a4-fc0d-ef11-9f89-7c1e5201656d">
+                                                                            <img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/bb7b51a4-fc0d-ef11-9f89-7c1e5201656d?ts=638508532260405672" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{else}}-->
+            <div data-conditional-content-rule-id="default">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding: 0px;"
+                                                    id="container40d59675a9acc1715669402917" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Image"
+                                                                        style="margin: 0px; padding: 0px;">
+                                                                        <div align="Center" class="imageWrapper"
+                                                                            data-image-file-id="7033558b-f00d-ef11-9f89-7c1e5201656d">
+                                                                            <img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/7033558b-f00d-ef11-9f89-7c1e5201656d?ts=638508480316924144" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{/if}}-->
+        </div>
+
+        <div data-conditional-content-id="38dea830-bd5c-4c75-828c-d31aeb979329">
+            <!--{{#if conditionalRule_1}}-->
+            <div data-conditional-content-rule-id="1">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="background-color: rgb(255, 255, 255); margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 10px; background-color: rgb(255, 255, 255); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;"
+                                                    id="container581fdd2e50c4b1715666727027" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Text"
+                                                                        style="margin: 10px;">
+                                                                        <p style="text-align:center">
+                                                                            <span class="mobileFont" style="font-family:BoxedRegularBold,Arial;text-align:Center;font-size:40px;color:#011F43">POINTS IN YOUR ACCOUNT:</span>
+                                                                        </p>
+                                                                    </div>
+                                                                    <div data-editorblocktype="Text"
+                                                                        style="margin: 10px;">
+                                                                        <p
+                                                                            style="font-family:BoxedRegularBold,Arial;text-align:Center;font-size:150px;color:#011F43">
+                                                                            <span tabindex="0" role="region" aria-label="widgetLabel"><span class="msdynmkt_personalization" data-widget="personalization" style="font-family:BoxedRegularBold,Arial;text-align:Center;font-size:150px;color:#011F43"><span class="mobilePointsFont">{{LoyaltyPointsBalance}}</span></span></span>
+                                                                        </p>
+                                                                    </div>
+
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{else}}-->
+            <div data-conditional-content-rule-id="default">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="background-color: rgb(1, 31, 67); margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 10px; background-color: rgb(1, 31, 67); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;"
+                                                    id="container865cf86f66fd81715669402917" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Text"
+                                                                        style="margin: 10px;">
+                                                                        <p style="text-align:center">
+                                                                            <span class="mobileFont" style="font-family:BoxedRegularBold,Arial;text-align:Center;font-size:40px;color:#ffffff">POINTS IN YOUR ACCOUNT:</span>
+                                                                        </p>
+                                                                    </div>
+                                                                    <div data-editorblocktype="Text"
+                                                                        style="margin: 10px;">
+                                                                        <p class="mobileFont"
+                                                                            style="font-family:BoxedRegularBold,Arial;text-align:Center;font-size:150px;color:#ffffff">
+                                                                            <span tabindex="0" role="region" aria-label="widgetLabel"><span class="msdynmkt_personalization" data-widget="personalization" style="font-family:BoxedRegularBold,Arial;text-align:Center;font-size:150px;color:#ffffff"><span class="mobilePointsFont">{{LoyaltyPointsBalance}}</span></span></span>
+                                                                        </p>
+                                                                    </div>
+
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{/if}}-->
+        </div>
+
+
+
+        <div data-conditional-content-id="887eded4-91ca-4e7a-8a1e-1ea943f43d1f">
+            <!--{{#if conditionalRule_1}}-->
+            <div data-conditional-content-rule-id="1">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="background-color: rgb(255, 255, 255); margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 10px; background-color: rgb(255, 255, 255); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;"
+                                                    id="container8c955a89cd55f1715668899224" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Text"
+                                                                        style="margin: 10px;">
+                                                                        <p style="text-align:center">
+                                                                            <span class="mobileFont" style="font-family:BoxedRegularBold,Arial;text-align:Center;font-size:40px;color:#011F43">
+                                                                            POINTS EXPIRING IN THE NEXT 30 DAYS:</span>
+                                                                        </p>
+
+                                                                    </div>
+                                                                    <div data-editorblocktype="Text"
+                                                                        style="margin: 10px;">
+                                                                        <p
+                                                                            style="font-family:BoxedRegularBold;text-align:Center;font-size:150px;color:#011F43">
+                                                                            <span tabindex="0" role="region" aria-label="widgetLabel"><span class="msdynmkt_personalization" data-widget="personalization" style="font-family:BoxedRegularBold,Arial;text-align:Center;font-size:150px;color:#011F43"><span class="mobilePointsFont"> {{Numberofpointsexpiringthismonth}}</span>
+                                                                            </span></span>
+                                                                        </p>
+                                                                    </div>
+
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{else}}-->
+            <div data-conditional-content-rule-id="default">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="background-color: rgb(1, 31, 67); margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 10px; background-color: rgb(1, 31, 67); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;"
+                                                    id="container5c145607ec6161715669625390" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Text"
+                                                                        style="margin: 10px;">
+                                                                        <p style="text-align:center">
+                                                                            <span class="mobileFont" style="font-family:BoxedRegularBold,Arial;text-align:Center;font-size:40px;color:#ffffff">
+                                                                            POINTS EXPIRING IN THE NEXT 30 DAYS:</span>
+                                                                        </p>
+
+                                                                    </div>
+                                                                    <div data-editorblocktype="Text"
+                                                                        style="margin: 10px;">
+                                                                        <p
+                                                                            style="font-family:BoxedRegularBold;text-align:Center;font-size:150px;color:#ffffff">
+                                                                            <span tabindex="0" role="region" aria-label="widgetLabel"><span class="msdynmkt_personalization" data-widget="personalization" style="font-family:BoxedRegularBold;text-align:Center;font-size:150px;color:#ffffff"><span class="mobilePointsFont"> {{Numberofpointsexpiringthismonth}}</span>
+                                                                            </span></span>
+                                                                        </p>
+                                                                    </div>
+
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{/if}}-->
+        </div>
+        <div data-conditional-content-id="6d8843dc-40ce-48a0-85fe-cd025c4c8cfb">
+            <!--{{#if conditionalRule_1}}-->
+            <div data-conditional-content-rule-id="1">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding: 0px;"
+                                                    id="container4d7e48269d8b91715671866936" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Image"
+                                                                        style="margin: 0px; padding: 0px;">
+                                                                        <div align="Center" class="imageWrapper"
+                                                                            data-image-file-id="d140e306-fd0d-ef11-9f89-7c1e5201656d">
+                                                                            <img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/d140e306-fd0d-ef11-9f89-7c1e5201656d?ts=638508533965876124" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{else}}-->
+            <div data-conditional-content-rule-id="default">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding: 0px;"
+                                                    id="containercb2e9e998061f1715672635686" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Image"
+                                                                        style="margin: 0px; padding: 0px;">
+                                                                        <div align="Center" class="imageWrapper"
+                                                                            data-image-file-id="1fd75b85-f00d-ef11-9f89-7c1e5201656d">
+                                                                            <img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/1fd75b85-f00d-ef11-9f89-7c1e5201656d?ts=638508480283329110" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{/if}}-->
+        </div>
+        <div data-conditional-content-id="ce0503a2-533b-4ebc-8881-97342ff1cb8d">
+            <!--{{#if conditionalRule_1}}-->
+            <div data-conditional-content-rule-id="1">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding: 0px;"
+                                                    id="container49621b9ea85d51715671874952" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Image"
+                                                                        style="margin: 0px; padding: 0px;">
+                                                                        <div align="Center" class="imageWrapper"
+                                                                            style="min-height: 100px;"><img src="" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px; display:none;">
+                                                                        </div>
+                                                                    </div>
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{else}}-->
+            <div data-conditional-content-rule-id="default">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding: 0px;"
+                                                    id="container228bf78c481881715672930234" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Image"
+                                                                        style="margin: 0px; padding: 0px;">
+                                                                        <div align="Center" class="imageWrapper"
+                                                                            data-image-file-id="1dd75b85-f00d-ef11-9f89-7c1e5201656d">
+                                                                            <img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/1dd75b85-f00d-ef11-9f89-7c1e5201656d?ts=638508480283329110" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{/if}}-->
+        </div>
+        <div data-conditional-content-id="a243f96b-6e66-44e7-9981-615acb98ba73">
+            <!--{{#if conditionalRule_1}}-->
+            <div data-conditional-content-rule-id="1">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding: 0px;"
+                                                    id="container49fade22b23ee1715672409011" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Image"
+                                                                        style="margin: 0px; padding: 0px;">
+                                                                        <div align="Center" class="imageWrapper"
+                                                                            data-image-file-id="03e23747-060d-ef11-9f89-6045bdec22c5">
+                                                                            <img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/03e23747-060d-ef11-9f89-6045bdec22c5?ts=638507474173213726" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{else}}-->
+            <div data-conditional-content-rule-id="default">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                    style="margin: 0px; border-radius: 0px;">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                        style="width: 600px; display: block;" role="presentation">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px; border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                                    role="presentation">
+                                    <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer"
+                                                    data-container-width="100"
+                                                    style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding: 0px;"
+                                                    id="containerf231f66a2e3df1715672635686" role="presentation">
+                                                    <table width="100%" cellpadding="0" cellspacing="0"
+                                                        style="height: 100%;" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner"
+                                                                    style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                                    role="presentation">
+                                                                    <div data-editorblocktype="Image"
+                                                                        style="margin: 0px; padding: 0px;">
+                                                                        <div align="Center" class="imageWrapper"
+                                                                            data-image-file-id="1cd75b85-f00d-ef11-9f89-7c1e5201656d">
+                                                                            <img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/1cd75b85-f00d-ef11-9f89-7c1e5201656d?ts=638508480283485433" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--{{/if}}-->
+        </div>
+        <div data-section="true" class="emptyContainer columns-equal-class no-wrap-section"
+            style="background-color: rgb(226, 226, 226); margin: 0px; border-radius: 0px;"
+            data-idcontentblocksection="80aa378b-13e8-ee11-904d-000d3a578f39">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;"
+                role="presentation">
+                <tbody>
+                    <tr>
+                        <th style="padding: 10px 10px 0px 20px; background-color: rgb(226, 226, 226); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                            role="presentation">
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0" role="presentation">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                            style="vertical-align: top; min-width: 5px; width: 81.45px; height: 0px; max-width: 14.29%;"
+                                            id="containerbbdfb98dda0941715678571236">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                            style="vertical-align: top; min-width: 5px; width: 81.45px; height: 0px; max-width: 14.29%;"
+                                            id="containerc446a263b0f1d1715678571236">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                            style="vertical-align: top; min-width: 5px; width: 81.45px; height: 0px; max-width: 14.29%;"
+                                            role="presentation" id="container082f08ef6c59f1715678571236">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;"
+                                                role="presentation">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                            role="presentation">
+                                                            <div data-editorblocktype="Image"
+                                                                style="margin: 10px; padding: 0px;">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="745b2bfb-c8e1-ee11-904d-000d3a578542">
+                                                                    <a href="https://www.facebook.com/Lids#_msdynmkt_donottrack=0"
+                                                                        data-msdyn-tracking-id="41e1b2b0405ab1710307853485"
+                                                                        style="text-decoration: none; color: #000;"><img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/745b2bfb-c8e1-ee11-904d-000d3a578542?ts=638459931842465302" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;"></a>
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                            style="vertical-align: top; min-width: 5px; width: 81.45px; height: 0px; max-width: 14.29%;"
+                                            role="presentation" id="container5060973812b71715678571236">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;"
+                                                role="presentation">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                            role="presentation">
+                                                            <div data-editorblocktype="Image"
+                                                                style="margin: 10px; padding: 0px;">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="755b2bfb-c8e1-ee11-904d-000d3a578542">
+                                                                    <a href="https://www.instagram.com/lids/#_msdynmkt_donottrack=0"
+                                                                        data-msdyn-tracking-id="149f710dde3fb1710307816265"
+                                                                        style="text-decoration: none; color: #000;"><img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/755b2bfb-c8e1-ee11-904d-000d3a578542?ts=638459931842465302" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;"></a>
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                            style="vertical-align: top; min-width: 5px; width: 81.45px; height: 0px; max-width: 14.29%;"
+                                            role="presentation" id="containerf1256f52d5b961715678571236">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;"
+                                                role="presentation">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="padding: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                            role="presentation">
+                                                            <div data-editorblocktype="Image"
+                                                                style="margin: 10px; padding: 0px;">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="765b2bfb-c8e1-ee11-904d-000d3a578542">
+                                                                    <a href="https://www.tiktok.com/@lids_loyal#_msdynmkt_donottrack=0"
+                                                                        data-msdyn-tracking-id="90e95d8da0bb11710307871310"
+                                                                        style="text-decoration: none; color: #000;"><img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/765b2bfb-c8e1-ee11-904d-000d3a578542?ts=638459931843090305" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;"></a>
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                            style="vertical-align: top; min-width: 5px; width: 81.45px; height: 0px; max-width: 14.29%;"
+                                            id="container3f24bf3cc22f91715678571237">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="padding: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                            style="vertical-align: top; min-width: 5px; width: 81.45px; height: 0px; max-width: 14.29%;"
+                                            id="container129773b92d89b1715678571237">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="padding: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+            style="background-color: rgb(226, 226, 226); margin: 0px; border-radius: 0px;"
+            data-idcontentblocksection="80aa378b-13e8-ee11-904d-000d3a578f39">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;"
+                role="presentation">
+                <tbody>
+                    <tr>
+                        <th style="padding: 0px 10px 10px; background-color: rgb(226, 226, 226); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                            role="presentation">
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 580px; height: 0px; padding: 0px;"
+                                            role="presentation" id="containerf10213639374b1715678571320">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;"
+                                                role="presentation">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; padding: 0px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                            role="presentation">
+
+
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+                                                                <p
+                                                                    style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: Center;">
+                                                                    <span data-link-type="ViewInBrowser"><a style="text-decoration: none; color: #000; font-family: BoxedHeavy,Arial; font-size: 12pt;" href="{{ViewEmailInBrowserUrl_1}}#_msdynmkt_donottrack=0">VIEW IN BROWSER</a></span>
+                                                                    |<a style="text-decoration: none; color: #000; font-family: BoxedHeavy,Arial; font-size: 12pt;"
+                                                                        href="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/standaloneforms/30ab064b-1c09-ef11-9f8a-6045bdf03a93">
+                                                                        MANAGE YOUR PREFERENCES</a> | <a
+                                                                        style="text-decoration: none; color: #000; font-family: BoxedHeavy,Arial; font-size: 12pt;"
+                                                                        href="{{PreferenceCenter}}">UNSUBSCRIBE</a>
+                                                                </p>
+                                                            </div>
+
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 10px 10px 0px;">
+                                                                <p
+                                                                    style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: Center; font-family: BoxedLight,Arial; font-size: 11pt; line-height: 16pt;">
+                                                                    Replies to this email will be sent to an unmonitored
+                                                                    email account.
+
+
+                                                                    If you have any questions, please contact Customer
+                                                                    Care
+                                                                    at <a
+                                                                        href="http://customercare@lids.com#_msdynmkt_donottrack=0"
+                                                                        style="color: #000; text-decoration: underline; font-family: BoxedLight,Arial; font-size: 11pt; line-height: 16pt;">customercare@lids.com</a>.
+                                                                </p>
+                                                                <p
+                                                                    style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: Center;">
+                                                                    <br>
+                                                                </p>
+                                                            </div>
+
+
+
+
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+                                                                <p
+                                                                    style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: Center; font-family: BoxedLight,Arial; font-size: 11pt; line-height: 11pt;">
+                                                                    © 2024 Lids. All rights reserved.</p>
+                                                                <p
+                                                                    style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: Center; font-family: BoxedLight,Arial; font-size: 11pt; line-height: 11pt;">
+                                                                    <br>
+                                                                </p>
+                                                                <p
+                                                                    style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: Center; font-family: BoxedLight,Arial; font-size: 11pt; line-height: 11pt;">
+                                                                    {{CompanyAddress}}<br></p>
+                                                                <p
+                                                                    style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: Center; font-family: BoxedLight,Arial; font-size: 11pt;">
+                                                                    <br>
+                                                                </p>
+                                                                <p
+                                                                    style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: Center;">
+                                                                    <a style="color: #000; text-decoration: underline; font-family: BoxedLight,Arial; font-size: 11pt; line-height: 11pt;"
+                                                                        href="https://urldefense.com/v3/__https:/blog.lids.com/privacy-policy-2/__;!!BNDoJA!6VYccu6uOEqki29B4aputOXPk7wMk3ZoFtnm-hCwOVdQEzSmdvqbBVhsmXd6fv1N7241os_qzmsNXt81HMwV79_2O9dhRPw$#_msdynmkt_donottrack=0">Privacy
+                                                                        Policy</a>
+                                                                </p>
+                                                            </div>
+
+
+
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,677 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Email Subject</title>
+    <meta name="referrer" content="never">
+    <meta name="format-detection" content="telephone=no,date=no,address=no,email=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta type="xrm/designer/setting" name="type" value="marketing-designer-content-editor-document">
+    <meta type="xrm/designer/setting" name="layout-editable" value="marketing-designer-layout-editable">
+    <meta type="xrm/designer/setting" name="layout-max-width" value="600px" datatype="text" label="Layout max width">
+
+    <style>
+        @media only screen and (max-width: 480px) {
+            h1 {
+                font-size: 22px !important;
+            }
+
+            h2 {
+                font-size: 18px !important;
+            }
+
+            .iconsRight {
+                padding-left: 3px !important;
+            }
+
+            .columnContainer,
+            .emptyContainer {
+                padding-left: 0px !important;
+                padding-right: 0px !important;
+                margin-left: 0px !important;
+                margin-right: 0px !important;
+                width: auto !important;
+            }
+        }
+    </style>
+
+    <style>
+        body {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            color: #000;
+            background-color: #fff;
+        }
+
+        h1 {
+            color: #000;
+            font-size: 34px;
+            font-weight: normal;
+            font-family: Verdana, Arial, sans-serif;
+            line-height: inherit;
+            text-align: left;
+        }
+
+        h2 {
+            color: #333;
+            font-size: 24px;
+            font-weight: normal;
+            font-family: sans-serif;
+            line-height: inherit;
+            text-align: left;
+        }
+
+        h3 {
+            color: #000;
+            font-size: 16px;
+            font-weight: normal;
+            font-family: Verdana, Arial, sans-serif;
+            line-height: inherit;
+            text-align: left;
+        }
+
+        p {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            color: #000;
+            line-height: inherit;
+            font-weight: normal;
+            text-align: left;
+        }
+
+        a {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+            color: #0082dd;
+            text-decoration: none;
+        }
+
+        .buttonWrapper {
+            margin: 10px 0px;
+        }
+
+        .buttonClass {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 16px;
+            font-weight: normal;
+            border-radius: 4px;
+            color: white;
+            border: none;
+            background-color: rgb(7, 66, 171);
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+
+        .buttonClass span {
+            font-family: inherit;
+            text-decoration: inherit;
+        }
+
+        .divider {
+            border-top: 2px solid silver;
+            margin: 10px 0px;
+            width: 100%;
+        }
+
+        div div {
+            background-color: transparent;
+        }
+
+        [data-layout="true"] {
+            border: none;
+            margin: 0 auto;
+            background-color: rgb(255, 255, 255);
+            max-width:
+                /* @layout-max-width */
+                600px
+                /* @layout-max-width */
+            ;
+        }
+    </style>
+</head>
+
+<body>
+    <div data-layout="true" data-layout-version="v2" style="max-width: 600px; margin: auto;">
+        <div class="wrapperContainer" id="container43c61aaac80ed1699592845282" data-contentblocksection="true"
+            data-idcontentblocksection="04ff4822-897f-ee11-8179-00224805c33a">
+            <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                data-idcontentblocksection="04ff4822-897f-ee11-8179-00224805c33a">
+                <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                    style="width: 600px; display: block;">
+                    <tbody>
+                        <tr>
+                            <th>
+                                <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <th data-container="true" class="columnContainer" data-container-width="100"
+                                                style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;"
+                                                id="container19f53b964b131700111341784">
+                                                <table width="100%" cellpadding="0" cellspacing="0"
+                                                    style="height: 100%;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <th class="inner"
+                                                                style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(0, 0, 0); font-weight: normal;">
+                                                                <div data-editorblocktype="Text" style="margin: 0px;">
+                                                                    <p
+                                                                        style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: center;">
+                                                                        <a href="#"
+                                                                            style="display:none;font-family: Verdana,Geneva,sans-serif; font-size: 11px; font-weight: normal; text-align: center; color: #ABABAB; text-decoration: underline;">View
+                                                                            in browser</a>
+                                                                    </p>
+                                                                </div>
+                                                            </th>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div data-section="true" class="columns-equal-class wrap-section">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                style="border-collapse: collapse; width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer"
+                                cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="min-width: 20px; width: 600px; height: 0px;"
+                                            id="container8da7797fab581645032575151">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner ui-sortable"
+                                                            style="min-width: 20px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="8bc3eadc-9183-ee11-8179-00224805c057">
+                                                                    <img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/8bc3eadc-9183-ee11-8179-00224805c057?ts=638356341034934577" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block;">
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+            style="margin-left: 35px; margin-right: 30px; margin-top: 7px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 535px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 535px; height: 0px;"
+                                            id="container4064b059f1b361700111443508">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 0px 0px 10px;">
+                                                                <p><span style="font-family:Verdana,Geneva,sans-serif;">Greetings once more,<br><br>We're thrilled to reconnect with you and continue our journey into the fascinating world of <b>Improving Liquid Resistance and Sound Quality in Mobile Devices</b>. We hope you've been enjoying the insights and discoveries shared in our previous emails.<br><br>As promised, we're excited to present you with a new set of personalized reading recommendations that will further enrich your understanding. This time, we delve into the intriguing topic of <b>“Achieving Higher Yields with Consistent Quality”</b>.</span>
+                                                                </p>
+                                                            </div>
+
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin-left: 8px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 592px; display: block;">
+                <tbody>
+                    <tr>
+                        <th style="border-color: rgb(0, 0, 0); border-width: 1px 0px; border-style: solid none;">
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="40.00"
+                                            style="vertical-align: top; min-width: 5px; width: 201.80px; height: 0px; padding-top: 10px; padding-left: 30px; padding-right: 5px;"
+                                            id="container4082fdd89b8251700111719625">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="81477333-5d84-ee11-8179-0022480818df">
+                                                                    <a href="https://www.gore.com/resources/improved-waterproofing-and-optimized-acoustic-performance#_msdynmkt_donottrack=0"
+                                                                        data-msdyn-tracking-id="0c2f9a02a94de1700124823309"><img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/81477333-5d84-ee11-8179-0022480818df?ts=638357214401178274" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block;" alt="Small ID size meets consistent high quality in mass production"></a>
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="60.00"
+                                            style="vertical-align: top; min-width: 5px; width: 320.20px; height: 0px; padding: 10px 30px 5px 5px;"
+                                            id="container9c6c3050dec811700111719625">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 0px 10px 0px 0px;">
+                                                                <p><span style="font-size:14px;"><span style="font-family:Verdana,Geneva,sans-serif;">Discover how advanced acoustic vent technology revolutionized the performance of smartphones in our latest case study. By addressing the challenge of achieving optimal sound quality while ensuring water resistance, our innovative vents have transformed the user experience. Dive into the details of real-world implementation, collaborative efforts, and successful results, showcasing the power of seamless integration between protection and audio excellence.</span></span>
+                                                                </p>
+                                                            </div>
+                                                            <div data-editorblocktype="Button" align="left"
+                                                                class="buttonWrapper"
+                                                                style="text-align: left; margin-bottom: 10px; margin-top: 5px;">
+                                                                <a target="_blank" class="buttonstyles"
+                                                                    style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: rgb(255, 255, 255); text-align: left; text-decoration: none; display: inline-block; background-color: rgb(218, 41, 28); border-width: 1px; border-style: solid; border-color: rgb(218, 41, 28); padding: 6px; border-radius: 3px; width: fit-content; height: auto; line-height: normal; margin-left: 0px; margin-right: auto; max-width: 100%; mso-hide: none !important;"
+                                                                    href="http://www.gore.com/resources/case-study-acoustic-vents-in-smartphone-thank-you?xcmp=acoustic-nurturing-journey_electronics_email_elect-port_sf-email_gl%7c%7ca2#_msdynmkt_donottrack=0"
+                                                                    title="Liquid Resistance Journey"
+                                                                    data-linkto="https://" rel="noopener"
+                                                                    data-msdyn-tracking-id="7f459bed33ba81700111988266"><span style="font-family: Verdana, Geneva, sans-serif; display: inline-block; min-width: 1px;">Read It Now</span></a>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin-left: 8px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 592px; display: block;">
+                <tbody>
+                    <tr>
+                        <th
+                            style="border-color: rgb(0, 0, 0); border-width: 0px 0px 1px; border-style: none none solid;">
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="40.00"
+                                            style="vertical-align: top; min-width: 5px; width: 201.80px; height: 0px; padding-top: 10px; padding-left: 30px; padding-right: 5px;"
+                                            id="container6df4979d026381700112031999">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="a4e49248-5d84-ee11-8179-0022480818df">
+                                                                    <img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/a4e49248-5d84-ee11-8179-0022480818df?ts=638357214746820188" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block;" alt="Gore Acoustic Vents Avert consequences of Acoustic inconsistency">
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="60.00"
+                                            style="vertical-align: top; min-width: 5px; width: 320.20px; height: 0px; padding: 10px 30px 5px 5px;"
+                                            id="containereed49d37b42831700112031999">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text" style="margin: 0px;">
+                                                                <p><span style="font-family:Verdana,Geneva,sans-serif;">Through years of experience and collaboration with diverse industries, we have developed a deep understanding of the challenges associated with yield losses in manufacturing processes. In this resource, we share proven strategies, research-driven approaches, and innovative solutions aimed at optimizing production and minimizing yield losses. Gain access to our expertise in yield loss reduction and unlock the potential for process optimization in your operations.</span>
+                                                                </p>
+                                                            </div>
+                                                            <div data-editorblocktype="Button" align="left"
+                                                                class="buttonWrapper"
+                                                                style="margin-bottom: 10px; margin-top: 10px; text-align: left;">
+                                                                <a target="_blank" class="buttonstyles"
+                                                                    style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: rgb(255, 255, 255); text-align: left; text-decoration: none; display: inline-block; background-color: rgb(218, 41, 28); border-width: 1px; border-style: solid; border-color: rgb(218, 41, 28); padding: 6px; border-radius: 3px; width: fit-content; height: auto; line-height: normal; margin-left: 0px; margin-right: auto; max-width: 100%; mso-hide: none !important;"
+                                                                    href="https://www.gore.com/resources/gore-expertise-provides-yield-loss-reduction?xcmp=acoustic-nurturing-journey_electronics_email_elect-port_sf-email_gl%7c%7ca2#_msdynmkt_donottrack=0"
+                                                                    title="Improve Airflow Journey"
+                                                                    data-linkto="https://" rel="noopener"
+                                                                    data-msdyn-tracking-id="d96e85dd46bcd1700112145161"><span style="font-family: Verdana, Geneva, sans-serif; display: inline-block; min-width: 1px;">Read It Now</span></a>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+            style="margin: 10px 30px 10px 37px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 533px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 533px; height: 0px;"
+                                            id="containerf171ae1cbefc51700112185012">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text" style="margin: 0px;">
+                                                                <p><span style="font-family:Verdana,Geneva,sans-serif;">Remember we're here to support you every step of the way. If you have any questions or need further assistance, please don't hesitate to <a data-linkto="https://" href="https://www.gore.com/products/electronics-venting-contact" style="color:#FF0000;text-decoration:underline;" title="reach out to us">reach out to us</a>.<br><br>Keep an eye out for our upcoming emails where we'll continue to provide you with valuable resources and thought-provoking content tailored to your interests.<br>Happy reading!<br><br>Best regards,<br><br>Gore Electronics Team</span>
+                                                                </p>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+            style="margin-top: 10px; margin-bottom: 10px; margin-left: 5px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 595px; display: block;">
+                <tbody>
+                    <tr>
+                        <th style="border-color: rgb(0, 0, 0); border-width: 1px 0px; border-style: solid none;">
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 530px; height: 0px; padding: 10px 30px 10px 35px;"
+                                            id="containerd7ce9465454eb1700112375347">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 0px 0px 0px 4px;">
+                                                                <p><span style="line-height:1.25;"><span style="font-size: 10px; line-height: 1.25;"><span style="font-family: arial, helvetica, sans-serif; line-height: 1.25;">FOR INDUSTRIAL USE ONLY. Not for use in food, drug, cosmetic or medical device manufacturing, processing, or packaging operations<br style="line-height: 1.25;"><br style="line-height: 1.25;">Copyright Information:<br style="line-height: 1.25;">All rights reserved. The material and structure of the Gore Newsletter are protected by Copyright. Reproduction of information or data in any way or form, and specifically the use of texts, sections of text or imagery, requires prior approval from Gore.<br style="line-height: 1.25;"><br style="line-height: 1.25;">© W. L. Gore &amp; Associates GmbH, 2023. All rights reserved.</span></span><br style="line-height: 1.25;"><span style="font-size: 10px; line-height: 1.25;"><span style="font-family: arial, helvetica, sans-serif; line-height: 1.25;">® GORE and designs are trademarks of W. L. Gore &amp; Associates.&nbsp;<br style="line-height: 1.25;"><br style="line-height: 1.25;">External Links:<br style="line-height: 1.25;">Where we refer to the Internet pages of third parties (links), GORE accepts no responsibility for the material on those linked pages. When you activate the link you are no longer accessing information on GORE Internet pages. The material of third parties may be controlled by different regulations, especially in relation to data protection.<br style="line-height: 1.25;"><br style="line-height: 1.25;">Registered Office: Putzbrunn - Commercial Register: District Court of Munich, HRB 7244 - Managing Directors: Karsta Goetze, Michael Hullik, Markus Minich - Chairman of the Supervisory Board: Andreas Weber</span></span></span>
+                                                                </p>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+            style="margin-top: 5px; margin-bottom: 1px; margin-left: 5px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 595px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 530px; height: 0px; padding: 10px 30px 10px 35px;"
+                                            id="container97ed088cd09811700112533519">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 0px 0px 0px 4px;">
+                                                                <p><span style="line-height:1.25;"><span style="font-size: 10px; line-height: 1.25;"><span style="font-family: arial, helvetica, sans-serif; line-height: 1.25;">This email was sent to: <span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span class="msdynmkt_personalization" data-widget="personalization" style="line-height: 1.25;">{{Email}}</span></span></span></span></span></span></span></span><br style="line-height: 1.25;"><br style="line-height: 1.25;">This email was sent by:<br style="line-height: 1.25;"><span style="display: none; line-height: 1.25;">W. L. Gore &amp; Associates Inc.<br style="line-height: 1.25;">201 Airport Road<br style="line-height: 1.25;">Elkton, MD, 21921, USA</span>{{CompanyAddress}}<br style="line-height: 1.25;"><br style="line-height: 1.25;"><span style="font-size: 10px; line-height: 1.25;"><span style="font-family: arial, helvetica, sans-serif; line-height: 1.25;">We respect your right to privacy - <a data-linkto="https://" href="https://www.gore.com/privacy" style="color: rgb(128, 128, 128); text-decoration: underline; font-size: 10px; line-height: 1.25;" title="Read the Gore Privacy Policy">Read the Gore Privacy Policy</a><br style="line-height: 1.25;"><br style="line-height: 1.25;">If you no longer wish to receive e-mails of this type or like to change your newsletter configuration with Gore, please choose one of these links:<br style="line-height: 1.25;"><br style="line-height: 1.25;">{{#if EncryptedFedIdExits}} <a href="https://preferences.gore.com/manage-preferences?federatedId={{EncryptedFederatedId}}?emailid=960f1a68-5c84-ee11-8179-0022480818df" style="color: rgb(128, 128, 128); text-decoration: underline; font-size: 10px; line-height: 1.25;" title="Manage your Preferences">Manage your Preferences</a> | {{else}}{{/if}} {{#if EncryptedFedIdExits}} <a href="https://preferences.gore.com/unsubscribe-survey?federatedId={{EncryptedFederatedId}}?emailid=960f1a68-5c84-ee11-8179-0022480818df" style="color: rgb(128, 128, 128); text-decoration: underline; font-size: 10px; line-height: 1.25;" title="Unsubscribe">Unsubscribe</a> {{else}} <a href="{{PreferenceCenter}}" style="color: rgb(128, 128, 128); text-decoration: underline; font-size: 10px; line-height: 1.25;" title="Unsubscribe">Unsubscribe</a> {{/if}}</span></span></span>
+                                                                    </span></span></p>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div data-section="true" class="emptyContainer columns-equal-class no-wrap-section"
+            style="margin-left: 33px; margin-top: 1px;">
+            <table class="outer iconsRight" align="center" cellpadding="0" cellspacing="0"
+                style="width: 567px; display: block;">
+                <tbody>
+                    <tr>
+                        <th style="padding-bottom: 20px;">
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="16.67"
+                                            style="vertical-align: top; min-width: 5px; width: 74.52px; height: 0px; max-width: 16.67%; padding: 1px 10px 10px;"
+                                            id="container122899cdfce421700112625207">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner narrowContainer"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="be724963-4184-ee11-8179-0022480462ed">
+                                                                    <a href="https://www.linkedin.com/company/gore/#_msdynmkt_donottrack=0"
+                                                                        data-msdyn-tracking-id="24da00d1002161700115510188"><img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/be724963-4184-ee11-8179-0022480462ed?ts=638357094890594141" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block;" alt="LinkedIn"></a>
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="16.67"
+                                            style="vertical-align: top; min-width: 5px; width: 74.52px; height: 0px; max-width: 16.67%; padding: 2px 10px 10px;"
+                                            id="container4ebee24b015ad1700112625207">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner narrowContainer"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="aa5c4b7a-4184-ee11-8179-0022480462ed">
+                                                                    <a href="https://www.youtube.com/user/wlgoreassociates#_msdynmkt_donottrack=0"
+                                                                        data-msdyn-tracking-id="085a1e85d22b11700115629183"><img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/aa5c4b7a-4184-ee11-8179-0022480462ed?ts=638357095285501812" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block;" alt="YouTube"></a>
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="16.67"
+                                            style="vertical-align: top; min-width: 5px; width: 74.52px; height: 0px; max-width: 16.67%; padding: 1px 10px 10px;"
+                                            id="containere6b061744c6951700112625207">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner narrowContainer"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="9e332689-4184-ee11-8179-0022480462ed">
+                                                                    <a href="https://twitter.com/WLGore#_msdynmkt_donottrack=0"
+                                                                        data-msdyn-tracking-id="05d5df92d2d5d1700115749379"><img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/9e332689-4184-ee11-8179-0022480462ed?ts=638357095582541391" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block;" alt="Twitter"></a>
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="16.67"
+                                            style="vertical-align: top; min-width: 5px; width: 94.52px; height: 0px; max-width: 16.67%;"
+                                            id="containeree55c28cb62b11700112625207">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="16.67"
+                                            style="vertical-align: top; min-width: 5px; width: 94.52px; height: 0px; max-width: 16.67%;"
+                                            id="container8835d0098e5d81700112634215">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="padding: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="16.67"
+                                            style="vertical-align: top; min-width: 5px; width: 94.52px; height: 0px; max-width: 16.67%;"
+                                            id="container297e4d8f5022c1700112637432">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="padding: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="columns-equal-class wrap-section" style="display:none">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                style="border-collapse: collapse; width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; padding: 10px">
+                            <table style="display: block; width: 100%; border-collapse: collapse;"
+                                class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="min-width: 5px; width: 580px; height: 0px;"
+                                            id="container673f0dfe99c461700111026988">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner ui-sortable"
+                                                            style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+
+                                                                <p style="text-align: center;display:none">
+                                                                    <span style="font-size: 11px;"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span class="msdynmkt_personalization" data-widget="personalization">{{CompanyAddress}}</span></span></span></span></span></span></span></span></span>
+                                                                </p>
+                                                                <p style="text-align: center;display:none"><a
+                                                                        href="{{PreferenceCenter}}"><span style="font-size: 11px;display:none;">Unsubscribe</span></a>
+                                                                </p>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</body>
+
+</html>

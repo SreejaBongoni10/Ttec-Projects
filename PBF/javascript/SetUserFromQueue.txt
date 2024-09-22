@@ -1,0 +1,44 @@
+function _setFromUser(executionContext) {
+       var formContext = executionContext.getFormContext();
+       var formType = formContext.ui.getFormType();
+       
+       if (formContext.getAttribute("from")) {
+           var fromFieldValue = formContext.getAttribute("from").getValue();
+           //alert("From field value before setting: " + JSON.stringify(fromFieldValue));
+       }
+   
+       //alert("Form Type: " + formType);
+   
+       var entityName = "queue";  
+   
+       if (formType == 1 ) {
+           Xrm.WebApi.online.retrieveMultipleRecords("queue", "?$select=queueid,name&$filter=name eq 'Marketing Queue Sreeja'").then(
+               function success(results) {
+                   console.log(results);
+                   for (var i = 0; i < results.entities.length; i++) {
+                       var result = results.entities[i];
+                       var queueid = result["queueid"];
+                       var name = result["name"];
+   
+                       try {
+                           formContext.getAttribute("from").setValue([{
+                               id: queueid,
+                               name: name,
+                               entityType: entityName
+                           }]);
+   
+                           var fromFieldValueAfter = formContext.getAttribute("from").getValue();
+                           //alert("From field value after setting: " + JSON.stringify(fromFieldValueAfter));
+                       } catch (e) {
+                           console.log("Error setting 'from' field:", e);
+                           //alert("Error setting 'from' field: " + e.message);
+                       }
+                   }
+               },
+               function(error) {
+                   console.log(error.message);
+               }
+           );
+       }
+   }
+   

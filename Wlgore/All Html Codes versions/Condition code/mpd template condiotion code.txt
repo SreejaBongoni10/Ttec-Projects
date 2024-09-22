@@ -1,0 +1,16 @@
+{{#if EncryptedFedIdExists}}
+
+<a href="https://preferences.goremedical.com/manage-preferences?federatedId={{EncryptedFederatedId}}?emailtemplateid=f8a9bbcf-0285-ee11-8179-002248081b71" style="color: #DA291C;font-size:10px; text-decoration: none; font-weight: normal; line-height: 100%;" title="Manage your preferences">
+<span style="color:#DA291C!important;text-decoration:underline!important;">Manage your Preferences</span></a>
+|
+{{else}}
+{{/if}}
+
+
+{{#if EncryptedFedIdExists}}
+<a href="https://preferences.goremedical.com/unsubscribe-survey?federatedId={{EncryptedFederatedId}}?emailtemplateid=f8a9bbcf-0285-ee11-8179-002248081b71" style="color: #DA291C;font-size:10px; text-decoration: none; font-weight: normal; line-height: 100%;" title="Unsubscribe">
+<span style="color:#DA291C!important;text-decoration:underline!important;">Unsubscribe</span></a>
+{{else}}
+<a href="{{PreferenceCenter}}" style="color: #DA291C;font-size:10px; text-decoration: none; font-weight: normal; line-height: 100%;" title="Unsubscribe">
+<span style="color:#DA291C!important;text-decoration:underline!important;">Unsubscribe</span></a>
+{{/if}}

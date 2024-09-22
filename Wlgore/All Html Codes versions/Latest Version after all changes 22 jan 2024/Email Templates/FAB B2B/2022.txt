@@ -1,0 +1,399 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Email Subject</title>
+    <meta name="referrer" content="never">
+    <meta name="format-detection" content="telephone=no,date=no,address=no,email=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta type="xrm/designer/setting" name="type" value="marketing-designer-content-editor-document">
+    <meta type="xrm/designer/setting" name="layout-editable" value="marketing-designer-layout-editable">
+    <meta type="xrm/designer/setting" name="layout-max-width" value="600px" datatype="text" label="Layout max width">
+    <style>
+        @media only screen and (max-width: 480px) {
+            h1 {
+                font-size: 15px !important;
+            }
+
+            h2 {
+                font-size: 18px !important;
+            }
+
+            .reduceImageByPercent {
+                height: 30% !important;
+                width: 30% !important;
+            }
+
+            .sectionAlignment {
+                padding-left: 40px !important;
+                padding-right: 40px !important;
+            }
+
+
+            .columnContainer,
+            .emptyContainer {
+                padding-left: 0px !important;
+                padding-right: 0px !important;
+                margin-left: 0px !important;
+                margin-right: 0px !important;
+                width: 100% !important;
+            }
+        }
+    </style>
+    <style>
+        body {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            color: #000;
+            background-color: #fff;
+        }
+
+        h1 {
+            color: #000;
+            font-size: 17px;
+            font-weight: normal;
+            font-family: Verdana, Arial, sans-serif;
+            line-height: inherit;
+            text-align: left;
+        }
+
+        h2 {
+            color: #333;
+            font-size: 24px;
+            font-weight: normal;
+            font-family: sans-serif;
+            line-height: inherit;
+            text-align: left;
+        }
+
+        h3 {
+            color: #000;
+            font-size: 16px;
+            font-weight: normal;
+            font-family: Verdana, Arial, sans-serif;
+            line-height: inherit;
+            text-align: left;
+        }
+
+        p {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            color: #000;
+            line-height: inherit;
+            font-weight: normal;
+            text-align: left;
+        }
+
+        a {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 10px;
+            font-weight: normal;
+            color: #0082dd;
+            text-decoration: none;
+        }
+
+        .buttonWrapper {
+            margin: 10px 0px;
+        }
+
+        .buttonClass {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 16px;
+            font-weight: normal;
+            border-radius: 4px;
+            color: white;
+            border: none;
+            background-color: rgb(7, 66, 171);
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+
+        .buttonClass span {
+            font-family: inherit;
+            text-decoration: inherit;
+        }
+
+        .divider {
+            border-top: 2px solid silver;
+            margin: 10px 0px;
+            width: 100%;
+        }
+
+        div div {
+            background-color: transparent;
+        }
+
+        [data-layout="true"] {
+            border: none;
+            margin: 0 auto;
+            background-color: rgb(255, 255, 255);
+            max-width:
+                /* @layout-max-width */
+                600px
+                /* @layout-max-width */
+            ;
+        }
+    </style>
+</head>
+
+<body>
+    <div data-layout="true" data-layout-version="v2" style="max-width: 600px; margin: auto;">
+        <div data-section="true" class="columns-equal-class wrap-section">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                style="border-collapse: collapse; width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th
+                            style="border-color: rgb(179, 179, 179) rgb(0, 0, 0) rgb(0, 0, 0); border-width: 1px 0px 0px; border-style: solid none none;">
+                            <table style="width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer"
+                                cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="min-width: 20px; width: 600px; height: 0px;"
+                                            id="container8da7797fab581645032575151">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner ui-sortable"
+                                                            style="min-width: 20px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+
+                                                            <div style="text-align: center; ">
+                                                                <font face="arial, helvetica, sans-serif">
+                                                                    <span style="font-size: 10px;display:none"><a data-linkto="other" style="color:#5D5D5D;text-decoration:underline;display:none" title="View this email in browser">View this email in browser</a></span>
+                                                                </font>
+                                                            </div>
+
+                                                            <div data-editorblocktype="Image"
+                                                                style="margin: 30px 10px 10px;">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="ac8be53f-be82-ee11-8179-002248081b71">
+                                                                    <a href="https://one.gore-tex.com#_msdynmkt_donottrack=0"
+                                                                        title="GORE-TEX PORTAL ONE"
+                                                                        data-linkto="https://"
+                                                                        data-msdyn-tracking-id="0eea5d21af7de1699946048616">
+                                                                        <img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/ac8be53f-be82-ee11-8179-002248081b71?ts=638355432175439068" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 132px; height: 24px;" width="132" height="24" alt="GORE-TEX" class="reduceImageByPercent"></a>
+
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+            style="margin-top: 30px; margin-bottom: 10px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;"
+                                            id="containere84801dad99591699938967773">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="f90a92c6-ab82-ee11-8179-002248081b71">
+                                                                    <a href="https://one.gore-tex.com/#_msdynmkt_donottrack=0"
+                                                                        data-msdyn-tracking-id="07408c7ba04761700648150676"><img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/f90a92c6-ab82-ee11-8179-002248081b71?ts=638355352865825626" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block;"></a>
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 560px; height: 0px; padding-bottom: 10px; padding-right: 10px; padding-left: 30px;"
+                                            id="container0d79378bdc981699939029443">
+                                            <table class="sectionAlignment" width="100%" cellpadding="0" cellspacing="0"
+                                                style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+
+                                                            <div data-editorblocktype="Text" style="margin: 0px;">
+                                                                <h1
+                                                                    style="margin: 10px 0px 20px; font-family: Arial, sans-serif;  font-weight: normal; letter-spacing: 2.5px; line-height: 21px; text-transform: uppercase;">
+                                                                    Lorem ipsum dolor sit amet</h1>
+                                                            </div>
+                                                            <div data-editorblocktype="Text" style="margin: 0px;">
+                                                                <div
+                                                                    style="margin: 0px 0px 0px; font-family: Arial, sans-serif; font-size: 15px; font-weight: normal; letter-spacing: 0.4px; line-height: 25px;">
+                                                                    Lorem ipsum dolor sit amet, consectetur <a
+                                                                        data-linkto="http://"
+                                                                        href="http://www.gore-tex.com"
+                                                                        style="color:#000000;text-decoration:underline;font-size:15px"
+                                                                        title="adipiscing">adipiscing</a> elit. Praesent
+                                                                    quis nisl in turpis sodales luctus aliquet at quam.
+                                                                    Fusce quis enim placerat lectus mattis auctor vel
+                                                                    quis mauris. Class aptent taciti sociosqu ad litora
+                                                                    torquent per conubia nostra, per inceptos himenaeos.
+                                                                    Sed quis suscipit diam, nec lacinia neque. Nunc
+                                                                    iaculis non arcu eget volutpat.</div>
+                                                            </div>
+                                                            <div data-editorblocktype="Button" align="left"
+                                                                class="buttonWrapper"
+                                                                style="margin-bottom: 10px; margin-top: 20px; text-align: left;">
+                                                                <a class="buttonClass" href="#"
+                                                                    style="display: inline-block; width: fit-content; height: auto; max-width: 100%; line-height: normal; border-color: rgb(255, 255, 255); border-width: 0px; background-color: rgb(0, 0, 0); font-size: 12px; border-radius: 1px; color: rgb(255, 255, 255); padding: 15px 50px; margin-left: 0px; margin-right: auto; mso-hide: none !important;"
+                                                                    data-msdyn-tracking-id="1313b273a1bc1703664807147">
+                                                                    <span style="display: inline-block; min-width: 1px; font-family: Arial, Verdana, sans-serif;">BUTTON TEXT</span>
+                                                                </a></div>
+
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 10px 10px 10px 0px;">
+                                                                <div
+                                                                    style="margin: 0px 0px 20px; font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; letter-spacing: 0.4px; line-height: 24px;">
+                                                                    We are looking forward to seeing you in the
+                                                                    portal!<br><br>Your GORE-TEX / ONE Team</div>
+                                                            </div>
+
+
+
+
+
+
+
+
+
+
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 600px; height: 0px; padding-top: 15px; padding-bottom: 15px;"
+                                            id="containerb5feb7da00d3f1703239536738">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; padding-top: 15px; padding-bottom: 15px; border-color: rgb(179, 179, 179) rgb(0, 0, 0); border-width: 1px 0px; border-style: solid none; font-weight: normal;">
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 10px 10px 10px 50px;">
+                                                                <p><span style="color: #999; font-family: arial, helvetica, sans-serif; font-size: 10px; text-align: center;">This email is provided by:<span style="display: none;"> W.L. Gore &amp; Associates Inc.<br>the maker of the GORE‑TEX brand, headquartered at 555 Paper Mill Road, Newark, DE 19711, USA</span>{{CompanyAddress}}</span>
+                                                                </p>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="columns-equal-class wrap-section" style="display:none">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                style="border-collapse: collapse; width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; padding: 10px">
+                            <table style="display: block; width: 100%; border-collapse: collapse;"
+                                class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="min-width: 5px; width: 580px; height: 0px;"
+                                            id="container7e1131fb34b8a1699938398681">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner ui-sortable"
+                                                            style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+
+                                                                <p style="text-align: center;display:none">
+                                                                    <span style="font-size: 11px;"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span style="display:none" class="msdynmkt_personalization" data-widget="personalization">{{CompanyAddress}}</span></span></span></span></span></span></span></span></span>
+                                                                </p>
+                                                                <p style="text-align: center;display:none"><a
+                                                                        href="{{PreferenceCenter}}"><span style="font-size: 11px;display:none">Unsubscribe</span></a>
+                                                                </p>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,411 @@
+  <div class="wrapperContainer" id="container780d2352b8d711700128777178" data-contentblocksection="true"
+      data-idcontentblocksection="06b465e7-6a84-ee11-8179-002248081b71">
+      <div data-section="true" class="emptyContainer columns-equal-class no-wrap-section"
+        data-idcontentblocksection="06b465e7-6a84-ee11-8179-002248081b71" style="margin: 20px 10px 10px;">
+        <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 580px; display: block;">
+          <tbody>
+            <tr>
+              <th>
+                <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <th data-container="true" class="columnContainer" data-container-width="16.67"
+                        style="vertical-align: top; min-width: 5px; width: 96.69px; max-width: 16.67%; height: 0px;"
+                        id="containera4697415339181701328826376">
+                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                          <tbody>
+                            <tr>
+                              <th class="columnContainer inner"
+                                style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                      <th data-container="true" class="columnContainer" data-container-width="16.67"
+                        style="vertical-align: top; min-width: 5px; width: 96.69px; max-width: 16.67%; height: 0px;"
+                        id="container0d966c7bbfb1b1701328826376">
+                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                          <tbody>
+                            <tr>
+                              <th class="columnContainer inner"
+                                style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; padding: 10px; font-weight: normal;">
+                                <div data-editorblocktype="Image" style="margin: 10px;">
+                                  <div align="Center" class="imageWrapper"
+                                    data-image-file-id="5231da2a-518f-ee11-8179-00224805c33a">
+                                    <a href="https://www.facebook.com/GORETEXna#_msdynmkt_donottrack=0"
+                                      data-msdyn-tracking-id="9a89a5d2cbf1a1701332546710"><img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/5231da2a-518f-ee11-8179-00224805c33a?ts=638369257342099945" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; height: 24px !important; width: 24px !important;" height="24" width="24" alt="Facebook"></a>
+                                  </div>
+                                </div>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                      <th data-container="true" class="columnContainer" data-container-width="16.67"
+                        style="vertical-align: top; min-width: 5px; width: 96.69px; max-width: 16.67%; height: 0px;"
+                        id="container60d7b59251f21701328826376">
+                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                          <tbody>
+                            <tr>
+                              <th class="columnContainer inner"
+                                style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; padding: 10px; font-weight: normal;">
+                                <div data-editorblocktype="Image" style="margin: 10px;">
+                                  <div align="Center" class="imageWrapper"
+                                    data-image-file-id="fcb8065a-518f-ee11-8179-00224805c33a">
+                                    <a href="https://www.instagram.com/goretexna/#_msdynmkt_donottrack=0"
+                                      data-msdyn-tracking-id="bdddedd4ed0ca1701332575572"><img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/fcb8065a-518f-ee11-8179-00224805c33a?ts=638369258076202103" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; height: 24px !important; width: 24px !important;" height="24" width="24" alt="Instagram"></a>
+                                  </div>
+                                </div>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                      <th data-container="true" class="columnContainer" data-container-width="16.67"
+                        style="vertical-align: top; min-width: 5px; width: 96.69px; max-width: 16.67%; height: 0px;"
+                        id="container56c0ec77020641701328826376">
+                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                          <tbody>
+                            <tr>
+                              <th class="columnContainer inner"
+                                style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; padding: 10px; font-weight: normal;">
+                                <div data-editorblocktype="Image" style="margin: 10px;">
+                                  <div align="Center" class="imageWrapper"
+                                    data-image-file-id="3bd66da9-518f-ee11-8179-00224805c33a">
+                                    <a href="https://twitter.com/GORETEXna#_msdynmkt_donottrack=0"
+                                      data-msdyn-tracking-id="adf03fc162b211701332601615"><img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/3bd66da9-518f-ee11-8179-00224805c33a?ts=638369259408672386" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; height: 24px !important; width: 24px !important;" height="24" width="24" alt="Twitter"></a>
+                                  </div>
+                                </div>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                      <th data-container="true" class="columnContainer" data-container-width="16.67"
+                        style="vertical-align: top; min-width: 5px; width: 96.69px; max-width: 16.67%; height: 0px;"
+                        id="containerf7885b833e32f1701328826376">
+                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                          <tbody>
+                            <tr>
+                              <th class="columnContainer inner"
+                                style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; padding: 10px; font-weight: normal;">
+                                <div data-editorblocktype="Image" style="margin: 10px;">
+                                  <div align="Center" class="imageWrapper"
+                                    data-image-file-id="a048d9c8-518f-ee11-8179-00224805c33a">
+                                    <a href="https://www.youtube.com/user/goretexnews#_msdynmkt_donottrack=0"
+                                      data-msdyn-tracking-id="72786e63cc0f61700545547706"
+                                      style="text-decoration: none;"><img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/a048d9c8-518f-ee11-8179-00224805c33a?ts=638369260003465817" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 24px !important; height: 24px !important;" width="24" height="24" alt="YouTube"></a>
+                                  </div>
+                                </div>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                      <th data-container="true" class="columnContainer" data-container-width="16.67"
+                        style="vertical-align: top; min-width: 5px; width: 96.69px; max-width: 16.67%; height: 0px;"
+                        id="container35362d28fd9481701328826376">
+                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                          <tbody>
+                            <tr>
+                              <th class="columnContainer inner"
+                                style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                  </tbody>
+                </table>
+              </th>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="wrapperContainer" id="container780d2352b8d711700128777178" data-contentblocksection="true"
+        data-idcontentblocksection="06b465e7-6a84-ee11-8179-002248081b71">
+
+      </div>
+
+
+      <div class="wrapperContainer" id="container76d0f3ce02cf91699869599743" data-contentblocksection="true"
+        data-idcontentblocksection="38121ba8-0f82-ee11-8179-0022480462ed">
+
+      </div>
+
+
+
+
+      <div class="wrapperContainer" id="container76d0f3ce02cf91699869599743" data-contentblocksection="true"
+        data-idcontentblocksection="38121ba8-0f82-ee11-8179-0022480462ed">
+
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="wrapperContainer" id="container2a0c75d6c9e251699929698435" data-contentblocksection="true"
+        data-idcontentblocksection="dd05f533-9982-ee11-8179-00224805c33a" style="background-color:#F3F4F5;">
+
+        <div class="wrapperContainer" id="container2a0c75d6c9e251699929698435" data-contentblocksection="true"
+          data-idcontentblocksection="dd05f533-9982-ee11-8179-00224805c33a">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        <div class="wrapperContainer" id="container2a0c75d6c9e251699929698435" data-contentblocksection="true"
+          data-idcontentblocksection="dd05f533-9982-ee11-8179-00224805c33a">
+
+        </div>
+      </div>
+      <div class="wrapperContainer" id="container2a0c75d6c9e251699929698435" data-contentblocksection="true"
+        data-idcontentblocksection="dd05f533-9982-ee11-8179-00224805c33a">
+
+      </div>
+      <div class="wrapperContainer" id="container76d0f3ce02cf91699869599743" data-contentblocksection="true"
+        data-idcontentblocksection="38121ba8-0f82-ee11-8179-0022480462ed">
+
+
+
+
+
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section">
+          <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+            <tbody>
+              <tr>
+                <th>
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                    <tbody>
+                      <tr>
+                        <th data-container="true" class="columnContainer" data-container-width="33.33"
+                          style="vertical-align: top; min-width: 5px; width: 199.98px; height: 0px;"
+                          id="container4fa243c536dab1700057231271">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                            <tbody>
+                              <tr>
+                                <th class="columnContainer inner"
+                                  style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-protected="false" data-editorblocktype="Content" style="font-family: Verdana,
+            
+            Arial,
+            
+            sans-serif; font-size: 14px; color: #000;" data-lookup-id="a2f2fa3c-c083-ee11-8179-0022480818df"
+                                    data-lookup-name="COF GTX1 Welcome 1 EN - Footer">
+
+
+
+
+
+
+
+                                    <div class="contentBlockWrapper" style="null">
+                                      <div style="margin: 10px 10px 0px;" data-sub-block="true"
+                                        data-block-datatype="Text">
+                                        <p
+                                          style="padding: 0px; mso-line-height-rule: at-least; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(188, 188, 188); line-height: 26px; margin: 0px 0px 29px; letter-spacing: 1.5px; border-bottom: 2px solid rgb(188, 188, 188); border-radius: 0px; text-transform: uppercase;">
+                                          GET HELP</p>
+                                      </div>
+                                      <div style="margin: 0px 10px 10px;" data-sub-block="true"
+                                        data-block-datatype="Text">
+                                        <p style="margin: 0px; padding: 0px; mso-line-height-rule: at-least;">
+                                          <span style="font-size:18px;"><a href="https://www.gore-tex.com/support/contact-us#_msdynmkt_donottrack=0" style="color: #bcbcbc; text-decoration: none; font-family: arial,helvetica,sans-serif; font-size: 12px; margin: 0 0 10px 0; display: inline-block;">Contact our customer service</a></span>
+                                        </p>
+                                        <p style="margin: 0px; padding: 0px; mso-line-height-rule: at-least;">
+                                          <span style="font-size:18px;"><a href="https://www.gore.com/privacy#_msdynmkt_donottrack=0" style="color: #bcbcbc; text-decoration: none; font-family: arial,helvetica,sans-serif; font-size: 12px; margin: 0 0 10px 0; display: inline-block;">Read our privacy policy</a></span>
+                                        </p>
+                                      </div>
+
+                                    </div>
+                                  </div>
+                                </th>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </th>
+                        <th data-container="true" class="columnContainer" data-container-width="33.33"
+                          style="vertical-align: top; min-width: 5px; width: 199.98px; height: 0px;"
+                          id="container6f7c1621fdbbe1700057231271">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                            <tbody>
+                              <tr>
+                                <th class="columnContainer inner"
+                                  style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-protected="false" data-editorblocktype="Content" style="font-family: Verdana,
+            
+            Arial,
+            
+            sans-serif; font-size: 14px; color: #000;" data-lookup-id="a2f2fa3c-c083-ee11-8179-0022480818df"
+                                    data-lookup-name="COF GTX1 Welcome 1 EN - Footer">
+
+
+
+
+
+
+
+                                    <div class="contentBlockWrapper" style="null">
+                                      <div style="margin: 10px 10px 0px;" data-sub-block="true"
+                                        data-block-datatype="Text">
+                                        <p
+                                          style="padding: 0px; mso-line-height-rule: at-least; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(188, 188, 188); line-height: 26px; margin: 0px 0px 29px; letter-spacing: 1.5px; border-bottom: 2px solid rgb(188, 188, 188); border-radius: 0px; text-transform: uppercase;">
+                                          Your Setting</p>
+                                      </div>
+                                      <div style="margin: 0px 10px 10px;" data-sub-block="true"
+                                        data-block-datatype="Text">
+                                        <p style="margin: 0px; padding: 0px; mso-line-height-rule: at-least;">
+                                          <span style="font-size:18px;"><a href="#" style="color: #bcbcbc; text-decoration: none; font-family: arial,helvetica,sans-serif; font-size: 12px; margin: 0 0 10px 0; display: inline-block;">Want to unsubscribe?</a></span>
+                                        </p>
+                                      </div>
+
+                                    </div>
+                                  </div>
+                                </th>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </th>
+                        <th data-container="true" class="columnContainer" data-container-width="33.33"
+                          style="vertical-align: top; min-width: 5px; width: 199.98px; height: 0px;"
+                          id="containerd86fd3f1632cc1700057231271">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                            <tbody>
+                              <tr>
+                                <th class="columnContainer inner"
+                                  style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-protected="false" data-editorblocktype="Content" style="font-family: Verdana,
+            
+            Arial,
+            
+            sans-serif; font-size: 14px; color: #000;" data-lookup-id="a2f2fa3c-c083-ee11-8179-0022480818df"
+                                    data-lookup-name="COF GTX1 Welcome 1 EN - Footer">
+
+
+
+
+
+
+
+                                    <div class="contentBlockWrapper" style="null">
+                                      <div style="margin: 10px;" data-sub-block="true" data-block-datatype="Text">
+                                        <p
+                                          style="padding: 0px; mso-line-height-rule: at-least; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(188, 188, 188); line-height: 26px; margin: 0px 0px 29px; letter-spacing: 1.5px; border-bottom: 2px solid rgb(188, 188, 188); border-radius: 0px; text-transform: uppercase;">
+                                          call us</p>
+                                      </div>
+                                      <div style="margin: 10px;" data-sub-block="true" data-block-datatype="Text">
+                                        <p style="margin: 0px; padding: 0px; mso-line-height-rule: at-least;">
+                                          <span style="font-size:18px;"><a href="#" style="color: #bcbcbc; text-decoration: none; font-family: arial,helvetica,sans-serif; font-size: 12px; margin: 0 0 10px 0; display: inline-block;">1-800-GORE-TEX</a></span>
+                                        </p>
+                                        <p style="margin: 0px; padding: 0px; mso-line-height-rule: at-least;">
+                                          <span style="font-size:18px;"><a href="#" style="color: #bcbcbc; text-decoration: none; font-family: arial,helvetica,sans-serif; font-size: 12px; margin: 0 0 10px 0; display: inline-block;">(1-800-467-3839)</a></span>
+                                        </p>
+                                      </div>
+
+                                    </div>
+                                  </div>
+                                </th>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </th>
+                      </tr>
+                    </tbody>
+                  </table>
+                </th>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section">
+          <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+            <tbody>
+              <tr>
+                <th
+                  style="border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(188, 188, 188); border-width: 0px 0px 1px; border-style: none none solid;">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                    <tbody>
+                      <tr>
+                        <th data-container="true" class="columnContainer" data-container-width="100"
+                          style="vertical-align: top; min-width: 5px; width: 580px; height: 0px; padding: 10px;"
+                          id="containerfab551fa74d241700136038712">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                            <tbody>
+                              <tr>
+                                <th class="inner"
+                                  style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-protected="false" data-editorblocktype="Content" style="font-family: Verdana,
+            
+            Arial,
+            
+            sans-serif; font-size: 14px; color: #000;" data-lookup-id="29571436-7084-ee11-8179-00224805c33a"
+                                    data-lookup-name="FAB B2B Footer">
+
+
+
+
+
+
+
+                                    <div class="contentBlockWrapper" style="null">
+                                      <div style="margin: 10px;" data-sub-block="true" data-block-datatype="Text">
+                                        <div
+                                          style="text-align: center;font-size:10px; color:#999; font-family:arial,helvetica,sans-serif;">
+                                          <span style="color: rgb(153, 153, 153); font-family: arial, helvetica, sans-serif; font-size: 10px; text-align: center;">This email was sent to&nbsp;&nbsp;</span><span style="color: rgb(153, 153, 153); font-family: arial, helvetica, sans-serif; font-size: 10px; text-align: center;"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span class="msdynmkt_personalization" data-widget="personalization">{{Email}}</span></span></span></span></span></span></span>&nbsp;</span><span style="color: rgb(153, 153, 153); font-family: arial, helvetica, sans-serif; font-size: 10px; text-align: center;">because you are a valued business partner of the GORE-TEX brand.&nbsp;</span><br style="color: rgb(153, 153, 153); font-family: arial, helvetica, sans-serif; font-size: 10px; text-align: center;"><br><span><u><a href="{{PreferenceCenter}}" style="color: #999; text-decoration: underline;font-size:10px" title="">Unsubscribe</a></u> | <u><a data-linkto="https://" href="https://www.gore-tex.co.uk/content/privacy-policy" style="font-size:10px;color: #999; text-decoration: underline;" title="">Privacy Policy</a></u></span><br><br><br><span style="color: #999; font-family: arial, helvetica, sans-serif; font-size: 10px; text-align: center;">This email is provided by:<span style="display: none;"> W.L. Gore &amp; Associates Inc.<br>the maker of the GORE‑TEX brand, headquartered at 555 Paper Mill Road, Newark, DE 19711, USA</span>{{CompanyAddress}}</span><br><br>Visit our site at
+                                          <a data-linkto="https://" href="https://www.gore-tex.com"
+                                            style="color: #999; text-decoration: underline; font-size:10px"
+                                            title="www.gore-tex.com">www.gore-tex.com</a>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </th>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </th>
+                      </tr>
+                    </tbody>
+                  </table>
+                </th>
+              </tr>
+            </tbody>
+          </table>
+        </div>

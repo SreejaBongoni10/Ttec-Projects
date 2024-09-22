@@ -1,0 +1,548 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Email Subject</title>
+    <meta name="referrer" content="never">
+    <meta name="format-detection" content="telephone=no,date=no,address=no,email=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta type="xrm/designer/setting" name="type" value="marketing-designer-content-editor-document">
+    <meta type="xrm/designer/setting" name="layout-editable" value="marketing-designer-layout-editable">
+    <meta type="xrm/designer/setting" name="layout-max-width" value="600px" datatype="text" label="Layout max width">
+    <style>
+        @media only screen and (max-width: 480px) {
+            h1 {
+                font-size: 22px !important;
+            }
+
+            h2 {
+                font-size: 18px !important;
+            }
+
+            .columnContainer,
+            .emptyContainer {
+                padding-left: 0px !important;
+                padding-right: 0px !important;
+                margin-left: 0px !important;
+                margin-right: 0px !important;
+                width: auto !important;
+            }
+        }
+    </style>
+    <style>
+        body {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            color: #000;
+            background-color: #fff;
+        }
+
+        h1 {
+            color: #000;
+            font-size: 34px;
+            font-weight: normal;
+            font-family: Verdana, Arial, sans-serif;
+            line-height: inherit;
+            text-align: left;
+        }
+
+        h2 {
+            color: #333;
+            font-size: 24px;
+            font-weight: normal;
+            font-family: sans-serif;
+            line-height: inherit;
+            text-align: left;
+        }
+
+        h3 {
+            color: #000;
+            font-size: 16px;
+            font-weight: normal;
+            font-family: Verdana, Arial, sans-serif;
+            line-height: inherit;
+            text-align: left;
+        }
+
+        p {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            color: #000;
+            line-height: inherit;
+            font-weight: normal;
+            text-align: left;
+        }
+
+        a {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+            color: #0082dd;
+            text-decoration: none;
+        }
+
+        .buttonWrapper {
+            margin: 10px 0px;
+        }
+
+        .buttonClass {
+            font-family: Arial, Verdana, sans-serif;
+            font-size: 16px;
+            font-weight: normal;
+            border-radius: 4px;
+            color: white;
+            border: none;
+            background-color: rgb(7, 66, 171);
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+
+        .buttonClass span {
+            font-family: inherit;
+            text-decoration: inherit;
+        }
+
+        .divider {
+            border-top: 2px solid silver;
+            margin: 10px 0px;
+            width: 100%;
+        }
+
+        div div {
+            background-color: transparent;
+        }
+
+        [data-layout="true"] {
+            border: none;
+            margin: 0 auto;
+            background-color: rgb(255, 255, 255);
+            max-width:
+                /* @layout-max-width */
+                600px
+                /* @layout-max-width */
+            ;
+        }
+    </style>
+</head>
+
+<body>
+    <div data-layout="true" data-layout-version="v2" style="max-width: 600px; margin: auto;">
+        <div class="wrapperContainer" id="container43c61aaac80ed1699592845282" data-contentblocksection="true"
+            data-idcontentblocksection="04ff4822-897f-ee11-8179-00224805c33a">
+            <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+                data-idcontentblocksection="04ff4822-897f-ee11-8179-00224805c33a">
+                <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                    style="width: 600px; display: block;">
+                    <tbody>
+                        <tr>
+                            <th>
+                                <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <th data-container="true" class="columnContainer" data-container-width="100"
+                                                style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;"
+                                                id="container19f53b964b131700111341784">
+                                                <table width="100%" cellpadding="0" cellspacing="0"
+                                                    style="height: 100%;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <th class="inner"
+                                                                style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(0, 0, 0); font-weight: normal;">
+                                                                <div data-editorblocktype="Text" style="margin: 0px;">
+                                                                    <p
+                                                                        style="margin: 0px; padding: 0px; mso-line-height-rule: at-least; text-align: center;">
+                                                                        <a href="#"
+                                                                            style="display:none;font-family: Verdana,Geneva,sans-serif; font-size: 11px; font-weight: normal; text-align: center; color: #ABABAB; text-decoration: underline;">View
+                                                                            in browser</a>
+                                                                    </p>
+                                                                </div>
+                                                            </th>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div data-section="true" class="columns-equal-class wrap-section">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                style="border-collapse: collapse; width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer"
+                                cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="min-width: 20px; width: 600px; height: 0px;"
+                                            id="container8da7797fab581645032575151">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner ui-sortable"
+                                                            style="min-width: 20px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image">
+                                                                <div align="left" class="imageWrapper"
+                                                                    data-image-file-id="8bc3eadc-9183-ee11-8179-00224805c057"
+                                                                    width="100%" style="width: 100%;">
+                                                                    <img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/8bc3eadc-9183-ee11-8179-00224805c057?ts=638356341034934577" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; margin-left: 0px; margin-right: auto;">
+                                                                    <div class="clear"
+                                                                        style="clear: both; height: 0px; width: 0px;">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+            style="margin-right: 25px; margin-left: 25px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 550px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 550px; height: 0px;"
+                                            id="container45fb881339f051701846130341">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image" style="margin: 10px;">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="2a60fc38-0594-ee11-be37-00224805cbe4">
+                                                                    <img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/2a60fc38-0594-ee11-be37-00224805cbe4?ts=638374428670937449" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block;" alt="Because Quality Creates Success - Visit Gore at booth #S5">
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th
+                            style="border-color: rgb(0, 0, 0); border-width: 0px 0px 1px; border-style: none none solid;">
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 575px; height: 0px; padding-left: 25px;"
+                                            id="container4064b059f1b361700111443508">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 10px 0px 10px 10px;">
+                                                                <h1
+                                                                    style="color:#F00F00;font-family:verdana,geneva,sans-serif;font-size:22px;font-style:normal;font-weight:normal;line-height:1.15;">
+                                                                    Thanks for your time at the DVN US Workshop!</h1>
+                                                            </div>
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+                                                                <h2
+                                                                    style="color:#5B6770;font-family:verdana,geneva,sans-serif;font-size:16px;font-style:normal;font-weight:normal;line-height:1.15;">
+                                                                    We appreciate your interest in the Gore solutions
+                                                                    that can extend the reliability and performance life
+                                                                    of your automotive exterior lighting.</h2>
+                                                            </div>
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+                                                                <p
+                                                                    style="font-family:verdana,geneva,sans-serif;font-size:16px;font-style:normal;font-weight:normal;line-height:1.15;">
+                                                                    It was a pleasure to discuss our common interests in
+                                                                    lighting for EV, AV and integrated ADAS
+                                                                    applications. Don’t hesitate to <a
+                                                                        style="color: #001F3F;font-family:verdana,geneva,sans-serif;font-size:16px;font-style:normal;font-weight:normal;line-height:1.15;text-decoration:underline;"
+                                                                        href="https://www.gore.com/products/gore-automotive-vents-for-exterior-lighting/contact?xcmp=dvn23-americas_auto_email_vent-auto_vts_us%7c%7cthankyou">contact
+                                                                        us</a> with any follow-up questions, or if you’d
+                                                                    like to have a more detailed discussion about:</p>
+                                                            </div>
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 10px 25px 10px 10px;">
+                                                                <ul
+                                                                    style="font-family:verdana,geneva,sans-serif;font-size:16px;font-style:normal;font-weight:normal;line-height:1.15;">
+                                                                    <li>Reducing condensation clearing times in
+                                                                        space-limited lamp environments and assemblies
+                                                                        with integrated electronic modules.</li>
+                                                                    <li>Enabling life-of-vehicle ingress protection,
+                                                                        pressure equalization and condensation reduction
+                                                                        in headlamps, rear lamps and accessory lighting.
+                                                                    </li>
+                                                                    <li>Providing sensitive ADAS components with optimal
+                                                                        levels of both ingress protection and acoustic
+                                                                        performance.</li>
+                                                                </ul>
+                                                            </div>
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+                                                                <p
+                                                                    style="font-family:verdana,geneva,sans-serif;font-size:16px;font-style:normal;font-weight:normal;line-height:1.15;">
+                                                                    And here’s something else about our capabilities
+                                                                    that may be helpful:</p>
+                                                            </div>
+
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="margin-left: 25px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 575px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="40.00"
+                                            style="vertical-align: top; min-width: 5px; width: 230px; height: 0px;"
+                                            id="container4082fdd89b8251700111719625">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Image"
+                                                                style="margin-top: 20px; margin-left: 10px;">
+                                                                <div align="Center" class="imageWrapper"
+                                                                    data-image-file-id="2960fc38-0594-ee11-be37-00224805cbe4">
+                                                                    <img src="https://assets-usa.mkt.dynamics.com/92e22fac-376c-ee11-8bc5-6045bd003e34/digitalassets/images/2960fc38-0594-ee11-be37-00224805cbe4?ts=638374428672968653" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block;" alt="EV Supercar image">
+                                                                </div>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                        <th data-container="true" class="columnContainer" data-container-width="60.00"
+                                            style="vertical-align: top; min-width: 5px; width: 345px; height: 0px;"
+                                            id="container9c6c3050dec811700111719625">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="columnContainer inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 20px 40px 0px 10px;">
+                                                                <p
+                                                                    style="font-family:verdana,geneva,sans-serif;font-size:16px;font-style:normal;font-weight:normal;line-height:1.15;">
+                                                                    <b>How Gore supports electrification</b>
+                                                                </p>
+                                                            </div>
+                                                            <div data-editorblocktype="Text"
+                                                                style="margin: 20px 10px 10px;">
+                                                                <p
+                                                                    style="font-family:verdana,geneva,sans-serif;font-size:16px;font-style:normal;font-weight:normal;line-height:1.15;">
+                                                                    Discover the many ways Gore can help OEMs and Tiers
+                                                                    meet the toughest industry challenges while
+                                                                    supporting greater sustainability and lower carbon
+                                                                    footprints.</p>
+                                                            </div>
+                                                            <div data-editorblocktype="Button" align="center"
+                                                                class="buttonWrapper"><a class="buttonClass"
+                                                                    href="https://www.gore.com/products/industries/automotive?xcmp=dvn23-americas_auto_email_vent-auto_vts_us%7c%7cthankyou#_msdynmkt_donottrack=0"
+                                                                    style="display: inline-block; width: fit-content; height: auto; max-width: 100%; line-height: normal; border-color: rgb(255, 255, 255); border-width: 0px; background-color: rgb(240, 15, 0); font-size: 16px; border-radius: 4px; color: rgb(255, 255, 255); padding: 10px 15px; mso-hide: none !important;"
+                                                                    data-msdyn-tracking-id="bc9dec88555d51701845546634">
+                                                                    <span style="display: inline-block; min-width: 1px; font-family: Arial, Verdana, sans-serif;">Learn more</span>
+                                                                </a></div>
+
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+
+
+
+
+
+
+
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+            style="margin-top: 10px; margin-bottom: 10px;">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th style="border-color: rgb(0, 0, 0); border-width: 1px 0px; border-style: solid none;">
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 540px; height: 0px; padding: 10px 30px;"
+                                            id="container5f22c115719351703584259473">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+                                                                <p><span style="line-height:1.25;"><span style="font-size: 10px; line-height: 1.25;"><span style="font-family: arial, helvetica, sans-serif; line-height: 1.25;">FOR INDUSTRIAL USE ONLY. Not for use in food, drug, cosmetic or medical device manufacturing, processing, or packaging operations<br style="line-height: 1.25;"><br style="line-height: 1.25;">Copyright Information:<br style="line-height: 1.25;">All rights reserved. The material and structure of the Gore Newsletter are protected by Copyright. Reproduction of information or data in any way or form, and specifically the use of texts, sections of text or imagery, requires prior approval from Gore.<br style="line-height: 1.25;"><br style="line-height: 1.25;">© W. L. Gore &amp; Associates GmbH, 2023. All rights reserved.</span></span><br style="line-height: 1.25;"><span style="font-size: 10px; line-height: 1.25;"><span style="font-family: arial, helvetica, sans-serif; line-height: 1.25;">® GORE and designs are trademarks of W. L. Gore &amp; Associates.&nbsp;<br style="line-height: 1.25;"><br style="line-height: 1.25;">External Links:<br style="line-height: 1.25;">Where we refer to the Internet pages of third parties (links), GORE accepts no responsibility for the material on those linked pages. When you activate the link you are no longer accessing information on GORE Internet pages. The material of third parties may be controlled by different regulations, especially in relation to data protection.<br style="line-height: 1.25;"><br style="line-height: 1.25;">Registered Office: Putzbrunn - Commercial Register: District Court of Munich, HRB 7244 - Managing Directors: Karsta Goetze, Michael Hullik, Markus Minich - Chairman of the Supervisory Board: Andreas Weber</span></span></span>
+                                                                </p>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div data-section="true" class="emptyContainer columns-equal-class wrap-section">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th>
+                            <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="vertical-align: top; min-width: 5px; width: 540px; height: 0px; padding-left: 30px; padding-right: 30px;"
+                                            id="containere9ca6b50fc9171703584259473">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner"
+                                                            style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+                                                                <p><span style="line-height:1.25;"><span style="font-size: 10px; line-height: 1.25;"><span style="font-family: arial, helvetica, sans-serif; line-height: 1.25;">This email was sent to: <span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span tabindex="-1" aria-label="widgetLabel" style="line-height: 1.25;"><span class="msdynmkt_personalization" data-widget="personalization" style="line-height: 1.25;">{{Email}}</span></span></span></span></span></span></span></span></span><br style="line-height: 1.25;"><br style="line-height: 1.25;">This email was sent by:<br style="line-height: 1.25;"><span style="display: none; line-height: 1.25;">W. L. Gore &amp; Associates Inc.<br style="line-height: 1.25;">201 Airport Road<br style="line-height: 1.25;">Elkton, MD, 21921, USA</span>{{CompanyAddress}}<br style="line-height: 1.25;"><br style="line-height: 1.25;"><span style="font-size: 10px; line-height: 1.25;"><span style="font-family: arial, helvetica, sans-serif; line-height: 1.25;">We respect your right to privacy - <a data-linkto="https://" href="https://www.gore.com/privacy" style="color: rgb(128, 128, 128); text-decoration: underline; font-size: 10px; line-height: 1.25;" title="Read the Gore Privacy Policy">Read the Gore Privacy Policy</a><br style="line-height: 1.25;"><br style="line-height: 1.25;">If you no longer wish to receive e-mails of this type or like to change your newsletter configuration with Gore, please choose one of these links:<br style="line-height: 1.25;"><br style="line-height: 1.25;">{{#if EncryptedFedIdExits}} <a href="https://preferences.gore.com/manage-preferences?federatedId={{EncryptedFederatedId}}?emailid=2e0423d2-ff93-ee11-be37-00224805c33a" style="color: rgb(128, 128, 128); text-decoration: underline; font-size: 10px; line-height: 1.25;" title="Manage your Preferences">Manage your Preferences</a> | {{else}}{{/if}} {{#if EncryptedFedIdExits}} <a href="https://preferences.gore.com/unsubscribe-survey?federatedId={{EncryptedFederatedId}}?emailid=2e0423d2-ff93-ee11-be37-00224805c33a" style="color: rgb(128, 128, 128); text-decoration: underline; font-size: 10px; line-height: 1.25;" title="Unsubscribe">Unsubscribe</a> {{else}} <a href="{{PreferenceCenter}}" style="color: rgb(128, 128, 128); text-decoration: underline; font-size: 10px; line-height: 1.25;" title="Unsubscribe">Unsubscribe</a> {{/if}}</span></span></span>
+                                                                    </span></span></p>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+
+
+
+        <div data-section="true" class="columns-equal-class wrap-section" style="display:none">
+            <table class="outer" align="center" cellpadding="0" cellspacing="0"
+                style="border-collapse: collapse; width: 600px; display: block;">
+                <tbody>
+                    <tr>
+                        <th style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; padding: 10px">
+                            <table style="display: block; width: 100%; border-collapse: collapse;"
+                                class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <th data-container="true" class="columnContainer" data-container-width="100"
+                                            style="min-width: 5px; width: 580px; height: 0px;"
+                                            id="container673f0dfe99c461700111026988">
+                                            <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <th class="inner ui-sortable"
+                                                            style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                            <div data-editorblocktype="Text" style="margin: 10px;">
+
+                                                                <p style="text-align: center;display:none">
+                                                                    <span style="font-size: 11px;"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span tabindex="-1" aria-label="widgetLabel"><span style="display:none" class="msdynmkt_personalization" data-widget="personalization">{{CompanyAddress}}</span></span></span></span></span></span></span></span></span></span></span>
+                                                                </p>
+                                                                <p style="text-align: center;display:none"><a
+                                                                        href="{{PreferenceCenter}}"><span style="font-size: 11px;display:none;">Unsubscribe</span></a>
+                                                                </p>
+                                                            </div>
+                                                        </th>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</body>
+
+</html>

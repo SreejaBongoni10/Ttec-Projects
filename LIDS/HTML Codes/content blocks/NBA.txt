@@ -1,0 +1,302 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="never">
+<meta type="xrm/designer/setting" name="type" value="marketing-designer-content-editor-document">
+<meta type="xrm/designer/setting" name="layout-editable" value="marketing-designer-layout-editable">
+<meta type="xrm/designer/setting" name="font-family" value="Verdana, Arial, sans-serif" datatype="font"
+    label="Font Family">
+<meta type="xrm/designer/setting" name="body-text-size" value="14px" datatype="text" label="Body Font Size">
+<meta type="xrm/designer/setting" name="body-text-color" value="#000" datatype="color" label="Body Text Color">
+<style>
+    @font-face {
+        font-family: BoxedHeavy;
+        font-display: swap;
+        src: url(https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/fonts/6cbc1864-c7e1-ee11-904d-000d3a5784a8?ts=638459959930000000 );
+    }
+
+    @font-face {
+        font-family: BoxedMedium;
+        font-display: swap;
+        src: url(https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/fonts/321b677f-d0e1-ee11-904d-000d3a5784a8?ts=638459964110000000 );
+    }
+
+    body {
+        font-family:
+            /* @font-family */
+            Verdana,
+            /* @font-family */
+            Arial,
+            /* @font-family */
+            sans-serif
+            /* @font-family */
+        ;
+        font-size:
+            /* @body-text-size */
+            14px
+            /* @body-text-size */
+        ;
+        color:
+            /* @body-text-color */
+            #000
+            /* @body-text-color */
+        ;
+    }
+
+    p {
+        margin: 0px;
+        padding: 0px;
+        mso-line-height-rule: at-least;
+    }
+
+    p img {
+        max-width: 100%;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    a,
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: #000;
+
+
+    }
+
+
+    @media only screen and (max-width: 480px) {
+
+
+        .columnContainer,
+        .emptyContainer {
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+            width: auto !important;
+        }
+    }
+</style>
+<div class="wrapperContainer" data-layout="true" data-layout-version="v2" data-contentblock="section"
+    id="container884882f955a461710228257162" style="max-width: 600px; margin: auto;">
+    <div data-section="true" class="emptyContainer columns-equal-class no-wrap-section"
+        style="background-color: rgb(226, 226, 226); margin: 0px; border-radius: 0px;">
+        <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;"
+            role="presentation">
+            <tbody>
+                <tr>
+                    <th style="padding: 10px 10px 0px 30px; background-color: rgb(226, 226, 226); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                        role="presentation">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0" role="presentation">
+                            <tbody>
+                                <tr>
+                                    <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                        style="vertical-align: top; min-width: 5px; width: 80.02px; height: 0px; max-width: 14.29%;"
+                                        id="containerccb436f57cde21710228273105">
+                                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                            <tbody>
+                                                <tr>
+                                                    <th class="columnContainer inner"
+                                                        style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                    </th>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                    <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                        style="vertical-align: top; min-width: 5px; width: 80.02px; height: 0px; max-width: 14.29%;"
+                                        id="container5ba00aac8afbb1710228273105">
+                                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                            <tbody>
+                                                <tr>
+                                                    <th class="columnContainer inner"
+                                                        style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                    </th>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                    <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                        style="vertical-align: top; min-width: 5px; width: 80.02px; height: 0px; max-width: 14.29%;"
+                                        id="container1fcc5511b045a1710228273105" role="presentation">
+                                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;"
+                                            role="presentation">
+                                            <tbody>
+                                                <tr>
+                                                    <th class="columnContainer inner"
+                                                        style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                        role="presentation">
+                                                        <div data-editorblocktype="Image"
+                                                            style="margin: 10px; padding: 0px;">
+                                                            <div align="Center" class="imageWrapper"
+                                                                data-image-file-id="745b2bfb-c8e1-ee11-904d-000d3a578542">
+                                                                <a href="https://www.facebook.com/NBAStore/#_msdynmkt_donottrack=0"
+                                                                    data-msdyn-tracking-id="5ab3b63f20bea1712122825651"><img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/745b2bfb-c8e1-ee11-904d-000d3a578542?ts=638459931842465302" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;"></a>
+                                                            </div>
+                                                        </div>
+                                                    </th>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                    <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                        style="vertical-align: top; min-width: 5px; width: 80.02px; height: 0px; max-width: 14.29%;"
+                                        id="containerc9714b1a3a6d21710228273105" role="presentation">
+                                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;"
+                                            role="presentation">
+                                            <tbody>
+                                                <tr>
+                                                    <th class="columnContainer inner"
+                                                        style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                        role="presentation">
+                                                        <div data-editorblocktype="Image"
+                                                            style="margin: 10px; padding: 0px;">
+                                                            <div align="Center" class="imageWrapper"
+                                                                data-image-file-id="755b2bfb-c8e1-ee11-904d-000d3a578542">
+                                                                <a href="https://www.instagram.com/nbastore/#_msdynmkt_donottrack=0"
+                                                                    data-msdyn-tracking-id="3a4ba729fd7731712122844527"><img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/755b2bfb-c8e1-ee11-904d-000d3a578542?ts=638459931842465302" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;"></a>
+                                                            </div>
+                                                        </div>
+                                                    </th>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                    <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                        style="vertical-align: top; min-width: 5px; width: 80.02px; height: 0px; max-width: 14.29%;"
+                                        id="container03fcccbebed1710228276203" role="presentation">
+                                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;"
+                                            role="presentation">
+                                            <tbody>
+                                                <tr>
+                                                    <th class="columnContainer inner"
+                                                        style="padding: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;"
+                                                        role="presentation">
+                                                        <div data-editorblocktype="Image"
+                                                            style="margin: 10px; padding: 0px;">
+                                                            <div align="Center" class="imageWrapper"
+                                                                data-image-file-id="075c66a8-9ee6-ee11-904d-000d3a5784a8">
+                                                                <a href="https://twitter.com/nbastore#_msdynmkt_donottrack=0"
+                                                                    data-msdyn-tracking-id="862d62a2919891712122882818"><img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/075c66a8-9ee6-ee11-904d-000d3a5784a8?ts=638465247697224661" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;"></a>
+                                                            </div>
+                                                        </div>
+                                                    </th>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                    <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                        style="vertical-align: top; min-width: 5px; width: 80.02px; height: 0px; max-width: 14.29%;"
+                                        id="containercc76f051e38251710228277720">
+                                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                            <tbody>
+                                                <tr>
+                                                    <th class="columnContainer inner"
+                                                        style="padding: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                    </th>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                    <th data-container="true" class="columnContainer" data-container-width="14.29"
+                                        style="vertical-align: top; min-width: 5px; width: 80.02px; height: 0px; max-width: 14.29%;"
+                                        id="containerc1b5414c5ec081710228279514">
+                                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                            <tbody>
+                                                <tr>
+                                                    <th class="columnContainer inner"
+                                                        style="padding: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                    </th>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div data-section="true" class="emptyContainer columns-equal-class wrap-section"
+        style="background-color: rgb(226, 226, 226); margin: 0px; border-radius: 0px;">
+        <table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px; display: block;"
+            role="presentation">
+            <tbody>
+                <tr>
+                    <th style="padding: 0px 10px 10px; background-color: rgb(226, 226, 226); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px;"
+                        role="presentation">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0" role="presentation">
+                            <tbody>
+                                <tr>
+                                    <th data-container="true" class="columnContainer" data-container-width="100"
+                                        style="vertical-align: top; min-width: 5px; width: 580px; height: 0px; padding: 0px;"
+                                        id="container7f8472c0299d51710228360236" role="presentation">
+                                        <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;"
+                                            role="presentation">
+                                            <tbody>
+                                                <tr>
+                                                    <th class="inner"
+                                                        style="min-width: 5px; padding: 0px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; border-radius: 0px; font-weight: normal;"
+                                                        role="presentation">
+                                                        <div data-editorblocktype="Text" style="margin: 0px 10px 10px;">
+                                                            <p style="text-align:Center">
+                                                                <span data-link-type="ViewInBrowser"><a style="font-family:BoxedHeavy;font-size:12pt" href="{{ViewEmailInBrowserUrl_1}}#_msdynmkt_donottrack=0">VIEW IN BROWSER</a></span>
+                                                                |<a style="font-family:BoxedHeavy;font-size:12pt"
+                                                                    href="#"> MANAGE YOUR PREFERENCES</a><a> | </a><a
+                                                                    style="font-family:BoxedHeavy;font-size:12pt"
+                                                                    href="{{PreferenceCenter}}">UNSUBSC​​​​​​​RIBE</a>
+                                                            </p>
+                                                        </div>
+                                                        <div data-editorblocktype="Text" style="margin: 10px 10px 0px;">
+                                                            <p
+                                                                style="text-align:Center;font-family:BoxedMedium;font-size:12pt;line-height:16pt">
+                                                                Rep​​​​​​​lies to this email
+                                                                will be sent to an unmonitored email account.</p>
+                                                            <p
+                                                                style="text-align:Center;font-family:BoxedMedium;font-size:12pt;line-height:16pt">
+                                                                If you have any questions,
+                                                                please contact us by postal mail at Lids Customer
+                                                                Service,{{CompanyAddress}}.</p>
+                                                            <p style="text-align:Center"><br></p>
+                                                        </div>
+
+
+
+
+                                                        <div data-editorblocktype="Text" style="margin: 10px;">
+                                                            <p
+                                                                style="text-align:Center;font-family:BoxedMedium;font-size:12pt;line-height:16pt">
+                                                                © 2024 Lids. All rights
+                                                                reserved.</p>
+                                                            <p style="text-align:Center"><a
+                                                                    style="text-decoration:underline;font-family:BoxedMedium;font-size:12pt;line-height:16pt"
+                                                                    href="https://urldefense.com/v3/__https:/blog.lids.com/privacy-policy-2/__;!!BNDoJA!6VYccu6uOEqki29B4aputOXPk7wMk3ZoFtnm-hCwOVdQEzSmdvqbBVhsmXd6fv1N7241os_qzmsNXt81HMwV79_2O9dhRPw$#_msdynmkt_donottrack=0">Privacy
+                                                                    Policy</a></p>
+                                                        </div>
+
+
+                                                    </th>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

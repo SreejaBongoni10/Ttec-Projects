@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Checkbox Test</title>
+</head>
+<body>
+
+<input type="checkbox" id="checkAll" onchange="toggleCheckboxes(this)">
+<label for="checkAll">Check All</label><br>
+
+<input type="checkbox" class="topicCheckbox" disabled>
+<label>Topic 1</label><br>
+
+<input type="checkbox" class="topicCheckbox" disabled>
+<label>Topic 2</label><br>
+
+<input type="checkbox" class="topicCheckbox" disabled>
+<label>Topic 3</label><br>
+
+<script>
+function toggleCheckboxes(checkAllCheckbox) {
+    var topicCheckboxes = document.querySelectorAll('.topicCheckbox');
+    topicCheckboxes.forEach(function(topicCheckbox) {
+        topicCheckbox.checked = checkAllCheckbox.checked;
+        topicCheckbox.disabled = checkAllCheckbox.checked;
+    });
+}
+</script>
+
+</body>
+</html>

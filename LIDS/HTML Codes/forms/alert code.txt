@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form with Checkbox Validation</title>
+</head>
+<body>
+    <div class="consentBlock" data-editorblocktype="Consent"
+        data-required="false" style="padding: 4px 30px;"
+        data-compliancesettingsid="7f4a6355-1811-4cde-bde3-fee8c85f56b1"
+        data-compliancesettingsname="Lids"
+        data-purposeid="10000000-0000-0000-0000-000000000003"
+        data-channels="Email"
+        data-purposename="Lids Commercial"
+        data-topicid="undefined" data-topicname="undefined"
+        data-optinwhenchecked="true">
+        <div>
+            <input type="checkbox" id="consentCheckbox-1710477577886" name="msdynmkt_purposeid;channels;optinwhenchecked" value="10000000-0000-0000-0000-000000000003;Email;true">
+            <label id="consentCheckbox-1710477577886-label" for="consentCheckbox-1710477577886"><p style="font-family: BoxedMedium;">Subscribe to all Emails</p></label>
+        </div>
+        <p id="alertMessage" style="color: red; font-style: italic; display: none;">Please check this box to subscribe to all brands. If left unchecked, you will be opted out of all brands.</p>
+    </div>
+
+    <div class="submitButtonWrapper" data-editorblocktype="SubmitButton">
+        <button class="submitButton" type="submit" style="font-family: BoxedSemibold; background-color: rgb(0, 37, 84); border-radius: 12px;">Submit</button>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var checkbox = document.getElementById("consentCheckbox-1710477577886");
+            var alertMessage = document.getElementById("alertMessage");
+            var submitButton = document.querySelector(".submitButton");
+
+            checkbox.addEventListener("change", function() {
+                if (checkbox.checked) {
+                    alertMessage.style.display = "none";
+                } else {
+                    alertMessage.style.display = "block";
+                }
+            });
+
+            submitButton.addEventListener("click", function(event) {
+                if (!checkbox.checked) {
+                    alert("Please check the box to subscribe to all brands.");
+                    event.preventDefault(); // Prevent form submission
+                }
+            });
+        });
+    </script>
+</body>
+</html>

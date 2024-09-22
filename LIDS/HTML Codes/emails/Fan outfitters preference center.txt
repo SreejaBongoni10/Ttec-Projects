@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preference Center</title>
+    <meta name="referrer" content="never">
+    <meta type="xrm/designer/setting" name="type" value="marketing-designer-content-editor-document">
+    <meta type="xrm/designer/setting" name="layout-editable" value="marketing-designer-layout-editable">
+    <meta type="xrm/designer/setting" name="layout-max-width" value="600px" datatype="text" label="Layout max width">
+    <meta type="xrm/designer/setting" name="font-family" value="Verdana, Arial, sans-serif" datatype="font"
+        label="Font Family">
+    <meta type="xrm/designer/setting" name="body-text-size" value="14px" datatype="text" label="Body Font Size">
+    <meta type="xrm/designer/setting" name="body-text-color" value="#000" datatype="color" label="Body Text Color">
+    <meta type="xrm/designer/setting" name="outer-background" value="#FFFFF" datatype="color" label="Email Background">
+    <style>
+        @font-face {
+            font-family: BoxedHeavy;
+            font-display: swap;
+            src: url(https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/fonts/6cbc1864-c7e1-ee11-904d-000d3a5784a8?ts=638459959930000000 );
+        }
+
+        @font-face {
+            font-family: BoxedMedium;
+            font-display: swap;
+            src: url(https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/fonts/321b677f-d0e1-ee11-904d-000d3a5784a8?ts=638459964110000000 );
+        }
+
+        @font-face {
+            font-family: BoxedSemibold;
+            font-display: swap;
+            src: url(https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/fonts/bfeca5c7-d0e1-ee11-904d-000d3a5784a8?ts=638459965330000000 );
+        }
+        
+
+        body,
+        div {
+            font-family:
+                Verdana,
+                Arial,
+                sans-serif;
+            font-size:
+                14px;
+            color:
+                #000;
+            background-color:
+                #fff;
+        }
+
+        div div {
+            background-color: transparent;
+        }
+
+        [data-layout="true"] {
+            margin: 0 auto;
+            max-width: 600px;
+
+        }
+
+        [data-editorblocktype="ContactOptIn"] {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        [data-editorblocktype],
+        [data-editorblocktype] * {
+            font-family: 'Segoe UI', Arial, sans-serif;
+        }
+
+        .contactOptInLabel,
+        .contactOptInLabel>div,
+        .contactOptInLabel>div>p {
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 22px;
+        }
+
+        .contactOptInLabel.weighted,
+        .contactOptInLabel.weighted>div,
+        .contactOptInLabel.weighted>div>p {
+            font-weight: 600;
+        }
+
+        div.contactPoint {
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 20px;
+        }
+
+        .submitButton>span {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            font-weight: 700;
+            font-size: 15px;
+        }
+
+        .submitButton {
+            text-align: center;
+            margin-right: auto;
+            margin-left: auto;
+            display: inline-block;
+            text-decoration: none;
+            background-color: #2266e3;
+            border: none;
+            border-radius: 4px;
+            color: #ffffff;
+            width: fit-content;
+            height: auto;
+            padding: 10px 20px;
+            max-width: 100%;
+            cursor: pointer;
+        }
+
+        .submitButton:disabled {
+            color: #A19F9D !important;
+            background-color: #F3F2F1 !important;
+            cursor: default;
+        }
+
+        .preferenceCenterBlock select {
+            padding: 6px 8px;
+            background-color: #faf9f8;
+            border: 1px solid #e1dfdd;
+            border-radius: 2px;
+
+            /* styles below replace the default dropdown "arrow" symbol */
+            background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iNyIgdmlld0JveD0iMCAwIDEyIDciIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik02IDYuNzA4OThMMC4xNDY0ODQgMC44NTU0NjlMMC44NTU0NjkgMC4xNDY0ODRMNiA1LjI5MTAyTDExLjE0NDUgMC4xNDY0ODRMMTEuODUzNSAwLjg1NTQ2OUw2IDYuNzA4OThaIiBmaWxsPSIjNjA1RTVDIi8+Cjwvc3ZnPgo=);
+            background-repeat: no-repeat;
+            background-position-x: 98%;
+            background-position-y: center;
+            appearance: none;
+        }
+
+        .preferenceCenterCheckbox,
+        .consentBlock div {
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
+            gap: 8px;
+        }
+
+        .preferenceCenterCheckbox input,
+        .consentBlock input {
+            margin: 0px;
+            box-sizing: border-box;
+            width: 20px;
+            height: 20px;
+            border: 1px solid #323130;
+            border-radius: 2px;
+            accent-color: #0078d4;
+            flex-shrink: 0;
+        }
+
+        .preferenceCenterCheckbox label,
+        .preferenceCenterCheckbox label>div,
+        .preferenceCenterCheckbox label>div>p,
+        .consentBlock label {
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 20px;
+        }
+
+        input[type=checkbox]:disabled~label {
+            color: rgb(166, 166, 166);
+        }
+
+        .editorAccessibilityButton>br {
+            line-height: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <form>
+        <div data-layout="true" data-layout-version="v2" style="margin: auto; max-width: 600px;">
+
+            <div data-section="true" class="columns-equal-class wrap-section">
+                <table class="outer" cellpadding="0" cellspacing="0"
+                    style="border-collapse:collapse; width: 600px; display: block; margin: 0 auto;">
+                    <tbody>
+                        <tr>
+                            <th>
+                                <table style="width: 100%; border-collapse: collapse;"
+                                    class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <th data-container="true" class="columnContainer" data-container-width="100"
+                                                style="min-width: 20px; width: 600px; height: 0px; padding: 0px;"
+                                                id="container67c6cc3b365341709789527047">
+                                                <table width="100%" cellpadding="0" cellspacing="0"
+                                                    style="height: 100%;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <th class="inner ui-sortable"
+                                                                style="min-width: 20px; vertical-align: top; word-wrap: break-word; word-break: break-word; word-wrap: break-word; word-break: break-word; font-family: boxedmedium; background-color: rgba(0, 0, 0, 0); border-color: rgb(0, 0, 0); border-width: 0px; border-style: none; padding: 0px; border-radius: 0px; font-weight: normal;">
+                                                                <div data-editorblocktype="Image"
+                                                                    style="margin: 10px; padding: 0px;">
+                                                                    <div align="Center" class="imageWrapper"
+                                                                        data-image-file-id="57f3c87e-d5e2-ee11-904d-000d3a578542">
+                                                                        <img src="https://assets-usa.mkt.dynamics.com/d1852405-eed9-ee11-9048-000d3a5bf91a/digitalassets/images/57f3c87e-d5e2-ee11-904d-000d3a578542?ts=638461085185747080" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;">
+                                                                    </div>
+                                                                </div>
+                                                                <div data-editorblocktype="Text" style="margin: 10px;">
+                                                                    <p
+                                                                        style="font-family: BoxedHeavy; font-size: 36px; text-align: center;">
+                                                                        WE HATE TO SEE YOU GO</p>
+                                                                </div>
+
+                                                                <div data-editorblocktype="Text" style="margin: 10px;">
+                                                                    <p style="text-align: center;">
+                                                                        <span style="font-family: BoxedMedium; font-size: 24px;">We respect your inbox's wishes, but we hope this isn't goodbye.</span>
+                                                                    </p>
+                                                                </div>
+                                                                <div class="preferenceCenterBlock"
+                                                                    data-editorblocktype="ContactOptIn"
+                                                                    data-channels="Email,Text"
+                                                                    style="padding: 20px 12%;">
+                                                                    <label class="contactOptInLabel weighted" id="contactOptInDropdown-label" for="contactOptInDropdown"><p style="font-family: BoxedMedium; text-align: center;">Update my communication preferences for:</p></label>
+                                                                    <div class="contactPoint" style="display: none;">
+                                                                    </div>
+                                                                    <select id="contactOptInDropdown" class="contactPoint" style="display: block;" name="channels" value="Email,Text">
+                                                                        <option>someone@example.com</option>
+                                                                        <option>(555) 555 5555</option>
+                                                                    </select>
+                                                                </div>
+                                                                <div data-editorblocktype="Text"
+                                                                    style="margin: 10px 12% 10px 31px;">
+                                                                    <p style="font-family: BoxedMedium;">UNSUBSCRIBE
+                                                                        FROM THE FOLLOWING :</p>
+                                                                </div>
+                                                                <div class="preferenceCenterCheckbox"
+                                                                    data-editorblocktype="Topic"
+                                                                    style="padding: 15px 12% 10px;"
+                                                                    data-purposeid="ae3652a5-3fdc-ee11-904d-000d3a5784a8"
+                                                                    data-purposename="Fan Outfitters Commercial"
+                                                                    data-topicid="d84c6c1b-e6e4-ee11-904d-000d3a5784a8"
+                                                                    data-topicname="Access Pass Account Updates"
+                                                                    data-optinwhenchecked="true">
+                                                                    <input type="checkbox" id="topicCheckbox-1710738793207" name="msdynmkt_topicid;optInWhenChecked" value="d84c6c1b-e6e4-ee11-904d-000d3a5784a8;true">
+                                                                    <label id="topicCheckbox-1710738793207-label" for="topicCheckbox-1710738793207"><p style="font-family:boxedmedium;">Access Pass Account Updates</p></label>
+                                                                </div>
+                                                                <div class="preferenceCenterCheckbox"
+                                                                    data-editorblocktype="Topic"
+                                                                    style="padding: 10px 12%;"
+                                                                    data-purposeid="ae3652a5-3fdc-ee11-904d-000d3a5784a8"
+                                                                    data-purposename="Fan Outfitters Commercial"
+                                                                    data-topicid="95e4fe2a-e6e4-ee11-904d-000d3a5784a8"
+                                                                    data-topicname="Fan Outfitters"
+                                                                    data-optinwhenchecked="true">
+                                                                    <input type="checkbox" id="topicCheckbox-1710738829273" name="msdynmkt_topicid;optInWhenChecked" value="95e4fe2a-e6e4-ee11-904d-000d3a5784a8;true">
+                                                                    <label id="topicCheckbox-1710738829273-label" for="topicCheckbox-1710738829273"><p style="font-family:boxedmedium;">Fan Outfitters</p><div tabindex="-1" id="toolbarnav_topicCheckbox-1710738829273-label" aria-label="[Navigate to toolbar]" role="button" class="editorAccessibilityButton"></div></label>
+                                                                </div>
+                                                                <div data-editorblocktype="Divider"
+                                                                    style="margin: 10px; padding: 0px;">
+                                                                    <div class="dividerWrapper" align="center">
+                                                                        <table
+                                                                            style="padding: 0px; margin: 0px; width: 100%; border-collapse: collapse;"
+                                                                            role="presentation" cellpadding="0"
+                                                                            cellspacing="0">
+                                                                            <tbody>
+                                                                                <tr style="padding: 0px;">
+                                                                                    <th
+                                                                                        style="margin:0px; padding: 0px; vertical-align:top;border-top-width: 2px; border-top-style: solid; border-top-color: #e1dfdd;">
+                                                                                        <p
+                                                                                            style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;">
+                                                                                            <span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span>
+                                                                                        </p>
+                                                                                    </th>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="preferenceCenterCheckbox"
+                                                                    data-editorblocktype="Purpose"
+                                                                    data-purposeid="ae3652a5-3fdc-ee11-904d-000d3a5784a8"
+                                                                    data-purposename="Commercial"
+                                                                    data-topicid="undefined" data-topicname="undefined"
+                                                                    data-optinwhenchecked="false"
+                                                                    style="padding: 10px 12% 20px;">
+                                                                    <input type="checkbox" id="purposeCheckbox-1666907930144" name="msdynmkt_purposeid;optInWhenChecked" value="ae3652a5-3fdc-ee11-904d-000d3a5784a8;false">
+                                                                    <label id="purposeCheckbox-1666907930144-label" for="purposeCheckbox-1666907930144"><p style="font-family:boxedmedium;">Unsubscribe from all emails.</p><div tabindex="-1" id="toolbarnav_purposeCheckbox-1666907930144-label" aria-label="[Navigate to toolbar]" role="button" class="editorAccessibilityButton"></div></label>
+                                                                </div>
+                                                                <div data-editorblocktype="SubmitButton" align="center">
+                                                                    <button class="submitButton" type="submit" style="border-color: rgba(255, 255, 255, 0); border-width: 1px; border-style: none; background-color: rgb(0, 37, 84); font-size: 13.3333px; border-radius: 4px; color: rgb(255, 255, 255);">
+        <span style="font-family:BoxedSemibold;">SUBMIT</span></button>
+                                                                </div>
+                                                            </th>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>
